@@ -7,8 +7,8 @@ import Icon from "../Icon";
 function Logo() {
   return (
     <Link to="/" className="group flex items-center gap-3" aria-label="CyberSec home">
-      <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-gradient-to-br from-brand-600 to-brand-400 text-white shadow-[0_8px_20px_-8px_rgba(21,128,61,0.8)] transition-transform duration-300 group-hover:scale-105">
-        <Icon path="M12 2L4 5v6c0 5 3.5 9.7 8 10.9 4.5-1.2 8-5.9 8-10.9V5l-8-3z" className="h-6 w-6" />
+      <span className="flex h-11 w-11 items-center justify-center overflow-hidden rounded-xl bg-white shadow-[0_8px_20px_-8px_rgba(21,128,61,0.45)] ring-1 ring-brand-200 transition-transform duration-300 group-hover:scale-105">
+        <img src="/logo.png" alt="CyberSec logo" className="h-full w-full object-contain" />
       </span>
       <span className="leading-tight">
         <span className="block text-xl font-extrabold tracking-tight text-ink-950">
