@@ -4,7 +4,7 @@ export const iso27701 = {
   titleAccent: "Beyond Security. Into Total Privacy. Compliance for the Data Age.",
 
   intro:
-    "You can't have privacy without security. ISO 27701 perfectly complements your 27001 ISMS to form an unbreakable data shield.",
+    "You can't have privacy without Security. ISO 27701 perfectly complements your 27001 ISMS to form an unbreakable data shield.",
 
   benefits: [
     { title: "Demonstrable GDPR Accountability", desc: "Mapping ISO controls to global legal requirements." },

@@ -126,11 +126,11 @@ export default function DroneTesting() {
       <Section className="bg-white">
         <Container>
           <SectionHead
-            title={drone.services.title}
-            highlight={drone.services.highlight}
-            subtitle={drone.services.lead}
+            title={drone.Services.title}
+            highlight={drone.Services.highlight}
+            subtitle={drone.Services.lead}
           />
-          <ServiceCards cards={drone.services.cards} columns={2} />
+          <ServiceCards cards={drone.Services.cards} columns={2} />
         </Container>
       </Section>
 

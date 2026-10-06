@@ -14,7 +14,7 @@ export const heroTestimonial = [
   },
   {
     quote:
-      "The false positive rate is remarkably low compared to other tools we have used. The AI powered reporting is a game changer for our security team.",
+      "The false positive rate is remarkably low compared to other tools we have used. The AI powered reporting is a game changer for our Security team.",
     name: "Manish Vig",
     role: "Director of Eurocert",
   },
@@ -35,7 +35,7 @@ export const testimonials = [
   },
   {
     quote:
-      "The false positive rate is remarkably low compared to other tools we have used. The AI powered reporting is a game changer for our security team.",
+      "The false positive rate is remarkably low compared to other tools we have used. The AI powered reporting is a game changer for our Security team.",
     name: "Manish Vig",
     role: "Director of Eurocert",
   },
@@ -65,7 +65,7 @@ export const softwareTestingCards = [
     desc: "Public-facing and internal web applications",
     points: [
       "OWASP Top 10 aligned vulnerability assessment",
-      "API & microservices security testing",
+      "API & microservices Security testing",
       "Authentication, session & access control validation",
     ],
     blocks: [
@@ -86,12 +86,12 @@ export const softwareTestingCards = [
     points: [
       "Secure API and backend testing",
       "OWASP Mobile Top 10 vulnerability coverage",
-      "Data storage, encryption & communication security",
+      "Data storage, encryption & communication Security",
     ],
     blocks: [
       {
         title: "Coverage Depth",
-        text: "Comprehensive testing across mobile app architecture, API communication, authentication flows, and sensitive data handling to identify security gaps.",
+        text: "Comprehensive testing across mobile app architecture, API communication, authentication flows, and sensitive data handling to identify Security gaps.",
       },
       {
         title: "Operational Readiness",
@@ -120,7 +120,7 @@ export const industrySolutions = [
     ],
     approach: [
       "HIPAA compliance auditing",
-      "Medical device security",
+      "Medical device Security",
       "PHI data encryption",
       "Incident response planning",
     ],
@@ -148,8 +148,8 @@ export const industrySolutions = [
     ],
     approach: [
       "DevSecOps integration",
-      "Cloud security posture management",
-      "API security testing",
+      "Cloud Security posture management",
+      "API Security testing",
       "Continuous vulnerability scanning",
     ],
     results: [
@@ -176,7 +176,7 @@ export const industrySolutions = [
     ],
     approach: [
       "FERPA compliance",
-      "Campus network security",
+      "Campus network Security",
       "End-user awareness training",
       "Multi-factor authentication",
     ],
@@ -202,7 +202,7 @@ export const serviceCoverage = [
   },
   {
     title: "Mobile Application Security Testing",
-    desc: "Full security assessment for Android & iOS apps across storage, encryption, and APIs.",
+    desc: "Full Security assessment for Android & iOS apps across storage, encryption, and APIs.",
     points: [
       "Insecure data storage & weak encryption practices",
       "Reverse engineering & app tampering risks",
@@ -228,11 +228,11 @@ export const serviceCoverage = [
   },
   {
     title: "Cloud & Infrastructure Security",
-    desc: "Cloud & backend security review (AWS, Azure, GCP) and infrastructure hardening.",
+    desc: "Cloud & backend Security review (AWS, Azure, GCP) and infrastructure hardening.",
     points: [
       "AWS, Azure, GCP misconfiguration checks",
       "IAM role and permission policy review",
-      "Serverless and container security assessment",
+      "Serverless and container Security assessment",
     ],
   },
   {
@@ -256,14 +256,14 @@ export const homeFaqs = [
   },
   {
     q: "Do we really need SOC 2?",
-    a: "If you handle customer data—especially as a SaaS, cloud, or tech company—SOC 2 helps you win deals, build trust, and meet client security requirements.",
+    a: "If you handle customer data—especially as a SaaS, cloud, or tech company—SOC 2 helps you win deals, build trust, and meet client Security requirements.",
   },
   {
     q: "What's the difference between SOC 2 Type I and Type II?",
     a: "Type I checks if your controls are designed correctly. Type II checks if those controls actually work over time. Most customers prefer Type II.",
   },
   {
-    q: "What kind of security testing do you offer?",
+    q: "What kind of Security testing do you offer?",
     a: "We test web apps, mobile apps, APIs, cloud infrastructure, networks, and IoT devices—covering real-world attack scenarios.",
   },
   {
@@ -280,7 +280,7 @@ export const homeFaqs = [
   },
   {
     q: "How is continuous monitoring different from VAPT?",
-    a: "VAPT shows your security at one point in time. Continuous monitoring watches your external assets 24/7 and alerts you as soon as new risks appear.",
+    a: "VAPT shows your Security at one point in time. Continuous monitoring watches your external assets 24/7 and alerts you as soon as new risks appear.",
   },
   {
     q: "Do you also secure IoT devices?",
@@ -296,11 +296,11 @@ export const homeFaqs = [
   },
   {
     q: "Which standards and compliance frameworks do you follow for testing?",
-    a: "We use trusted, globally recognized security standards to make sure our testing is thorough, reliable, and audit-ready. Based on your business and what you need to comply with, we align our testing with frameworks such as OWASP Top 10 & OWASP ASVS – to secure web apps, mobile apps, APIs, and IoT applications; NIST (SP 800-53 / 800-115) – for structured, risk-based security testing; ISO/IEC 27001 & 27002 – for strong information security controls and best practice; SOC 2 (Trust Service Criteria) – covering Security, Availability, Confidentiality, and Privacy; ETSI & OWASP IoT Top 10 – for IoT device, firmware, and communication security. We don't believe in one-size-fits-all security. That's why we choose the right standards based on your industry, customers, and compliance goals, making testing practical, effective, and not just a checklist exercise.",
+    a: "We use trusted, globally recognized Security standards to make sure our testing is thorough, reliable, and audit-ready. Based on your business and what you need to comply with, we align our testing with frameworks such as OWASP Top 10 & OWASP ASVS – to secure web apps, mobile apps, APIs, and IoT applications; NIST (SP 800-53 / 800-115) – for structured, risk-based Security testing; ISO/IEC 27001 & 27002 – for strong information Security controls and best practice; SOC 2 (Trust Service Criteria) – covering Security, Availability, Confidentiality, and Privacy; ETSI & OWASP IoT Top 10 – for IoT device, firmware, and communication Security. We don't believe in one-size-fits-all Security. That's why we choose the right standards based on your industry, customers, and compliance goals, making testing practical, effective, and not just a checklist exercise.",
   },
   {
     q: "Why choose us?",
-    a: "Because we keep security simple, transparent, and effective—with certified experts and a long-term partnership approach.",
+    a: "Because we keep Security simple, transparent, and effective—with certified experts and a long-term partnership approach.",
   },
 ];
 
@@ -310,9 +310,9 @@ export const footerColumns = [
     links: [
       { label: "Web Testing", to: "/wapt" },
       { label: "Application Testing", to: "/vapt" },
-      { label: "AI/ML Security", to: "/ai-ml-security" },
+      { label: "AI/ML Security", to: "/ai-ml-Security" },
       { label: "Drone Testing", to: "/drone-testing" },
-      { label: "IoT Security", to: "/iot-security" },
+      { label: "IoT Security", to: "/iot-Security" },
     ],
   },
   {

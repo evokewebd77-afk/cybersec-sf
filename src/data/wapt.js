@@ -3,7 +3,7 @@ export const wapt = {
   title: "Web Application Penetration Testing (WAPT)",
   titleAccent: "Find and fix vulnerabilities before attackers do.",
   subtitle:
-    "Protecting every layer of your web application infrastructure. A hybrid security testing approach combining automated tools with in-depth manual testing.",
+    "Protecting every layer of your web application infrastructure. A hybrid Security testing approach combining automated tools with in-depth manual testing.",
 
   stats: [
     { value: "500+", label: "Pentests Done" },
@@ -32,7 +32,7 @@ export const wapt = {
       },
       {
         icon: ["M13 2L3 14h7l-1 8 10-12h-7l1-8z"],
-        title: "Strengthen overall security posture",
+        title: "Strengthen overall Security posture",
       },
       {
         icon: ["M12 2c3 1.5 6 4 6 8l-3 3-3-3-3 3-3-3c0-4 3-6.5 6-8z"],
@@ -41,10 +41,10 @@ export const wapt = {
     ],
   },
 
-  services: {
+  Services: {
     title: "Comprehensive",
     highlight: "WAPT Services",
-    lead: "A hybrid security testing approach combining automated tools with in-depth manual testing.",
+    lead: "A hybrid Security testing approach combining automated tools with in-depth manual testing.",
     items: [
       {
         title: "Scope Definition",
@@ -68,7 +68,7 @@ export const wapt = {
       },
       {
         title: "Retesting & Sign-off",
-        desc: "Verify all fixes are properly implemented and close all security gaps.",
+        desc: "Verify all fixes are properly implemented and close all Security gaps.",
       },
     ],
   },
@@ -111,7 +111,7 @@ export const wapt = {
       },
       {
         title: "Actionable Reports",
-        desc: "Clear, easy-to-understand, and audit-ready security reports for every stakeholder.",
+        desc: "Clear, easy-to-understand, and audit-ready Security reports for every stakeholder.",
       },
       {
         title: "Startup Friendly",
@@ -151,11 +151,11 @@ export const wapt = {
         { label: "Advanced Application Security Testing (AST)" },
         { label: "SOC 2 & SOC 3 readiness support" },
         { label: "HIPAA compliance gap insights" },
-        { label: "IoT / Device security basic assessment" },
+        { label: "IoT / Device Security basic assessment" },
         { label: "Business logic & authentication testing" },
         { label: "Privilege escalation & access control" },
         { label: "Unlimited automated DAST scans" },
-        { label: "Dedicated security expert support" },
+        { label: "Dedicated Security expert support" },
         { label: "Slack / Priority communication support" },
         { label: "Custom remediation guidance" },
       ],
@@ -174,12 +174,12 @@ export const wapt = {
         { label: "SOC 3 reporting (Public Trust)" },
         { label: "HIPAA full compliance audit" },
         { label: "ISO 27001 readiness & audit support" },
-        { label: "Cloud & Infrastructure security assessment" },
+        { label: "Cloud & Infrastructure Security assessment" },
         { label: "Continuous VAPT & Monitoring" },
         { label: "IoT, Drone & AI/ML Security Testing" },
         { label: "Threat modeling & attack simulation" },
         { label: "Custom SLA & Flexible engagement" },
-        { label: "Dedicated security team" },
+        { label: "Dedicated Security team" },
         { label: "Real-time collaboration (Slack/Teams)" },
       ],
     },

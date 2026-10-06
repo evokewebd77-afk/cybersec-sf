@@ -50,11 +50,11 @@ export default function Wapt() {
         <Container>
           <SectionHead
             eyebrow="Methodology"
-            title={wapt.services.title}
-            highlight={wapt.services.highlight}
-            subtitle={wapt.services.lead}
+            title={wapt.Services.title}
+            highlight={wapt.Services.highlight}
+            subtitle={wapt.Services.lead}
           />
-          <Steps items={wapt.services.items} className="mt-12" />
+          <Steps items={wapt.Services.items} className="mt-12" />
         </Container>
       </Section>
 
@@ -120,7 +120,7 @@ export default function Wapt() {
       <PlansSection plans={wapt.plans} />
       <FinalCta
         title="Secure Your Web Application Today"
-        lead="Don't wait for a security incident to expose your weaknesses. Tiered testing plans designed to scale with your growth."
+        lead="Don't wait for a Security incident to expose your weaknesses. Tiered testing plans designed to scale with your growth."
         primary="Talk to an Expert"
         secondary="View Pricing"
       />

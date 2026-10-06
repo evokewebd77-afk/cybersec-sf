@@ -3,9 +3,9 @@ export const privacy = {
   titleAccent: "Policy",
   version: "Version 2.0",
   intro:
-    "We are committed to protecting the privacy, security, and integrity of our users, partners, and security researchers. This policy explains how we collect, use, and safeguard your sensitive data.",
+    "We are committed to protecting the privacy, Security, and integrity of our users, partners, and Security researchers. This policy explains how we collect, use, and safeguard your sensitive data.",
   introCard:
-    "Trust is the foundation of our services. This document outlines our transparent practices regarding your personal and professional data.",
+    "Trust is the foundation of our Services. This document outlines our transparent practices regarding your personal and professional data.",
 
   sections: [
     {
@@ -34,7 +34,7 @@ export const privacy = {
           before: "We use ",
           strong: "Google Analytics",
           after:
-            " and internal security tools to monitor website performance and prevent unauthorized access.",
+            " and internal Security tools to monitor website performance and prevent unauthorized access.",
         },
       ],
     },
@@ -42,9 +42,9 @@ export const privacy = {
       id: "pp-2",
       title: "2. How We Use Your Information",
       list: [
-        "Deliver world-class cybersecurity training and audit services",
+        "Deliver world-class cybersecurity training and audit Services",
         "Respond to high-priority business inquiries and technical support",
-        "Enhance security protocols and process vulnerability reports",
+        "Enhance Security protocols and process vulnerability reports",
         "Improve end-user experience via data-driven optimizations",
       ],
     },
@@ -81,7 +81,7 @@ export const privacy = {
       list: [
         "End-to-end SSL/TLS encrypted traffic",
         "Strict internal access controls & monitoring",
-        "Continuous 24/7 infrastructure security audits",
+        "Continuous 24/7 infrastructure Security audits",
       ],
     },
     {
@@ -90,7 +90,7 @@ export const privacy = {
       body: [
         {
           before:
-            "We advocate for safe, responsible security research. Valid reports submitted via our official channels will be handled with professional priority. ",
+            "We advocate for safe, responsible Security research. Valid reports submitted via our official channels will be handled with professional priority. ",
           underline: "(cybersec.itcindia.org)",
           suffix: ".",
         },
@@ -101,7 +101,7 @@ export const privacy = {
       title: "7. Children's Privacy",
       body: [
         {
-          text: "Our services are intended for professional audiences. We do not knowingly collect data from individuals under 13 years of age.",
+          text: "Our Services are intended for professional audiences. We do not knowingly collect data from individuals under 13 years of age.",
         },
       ],
     },
@@ -129,7 +129,7 @@ export const privacy = {
       title: "10. Policy Updates",
       body: [
         {
-          text: "We update this policy as security regulations evolve. Major changes will be highlighted via a notification on our homepage.",
+          text: "We update this policy as Security regulations evolve. Major changes will be highlighted via a notification on our homepage.",
         },
       ],
     },

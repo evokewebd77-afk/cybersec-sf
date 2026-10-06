@@ -42,8 +42,8 @@ export default function App() {
           <Route path="/vapt" element={<Vapt />} />
           <Route path="/wapt" element={<Wapt />} />
           <Route path="/drone-testing" element={<DroneTesting />} />
-          <Route path="/iot-security" element={<IotSecurity />} />
-          <Route path="/ai-ml-security" element={<AimlSecurity />} />
+          <Route path="/iot-Security" element={<IotSecurity />} />
+          <Route path="/ai-ml-Security" element={<AimlSecurity />} />
           <Route path="/soc-audit" element={<SocAudit />} />
           <Route path="/soc3-audit" element={<Soc3Audit />} />
           <Route path="/hipaa-audit" element={<HipaaAudit />} />

@@ -83,11 +83,11 @@ export default function IotSecurity() {
       <Section className="bg-white">
         <Container>
           <SectionHead
-            title={iot.services.title}
-            highlight={iot.services.highlight}
-            subtitle={iot.services.lead}
+            title={iot.Services.title}
+            highlight={iot.Services.highlight}
+            subtitle={iot.Services.lead}
           />
-          <ServiceCards cards={iot.services.cards} columns={2} />
+          <ServiceCards cards={iot.Services.cards} columns={2} />
         </Container>
       </Section>
 

@@ -51,7 +51,7 @@ const securityCards = [
       "M6 18h12v-2H6zm-2-4h16v-4H4zm2-6h12V6H6z",
     ],
     title: "SOC 2, SOC 3",
-    desc: "Assurance on security, availability, confidentiality, and privacy.",
+    desc: "Assurance on Security, availability, confidentiality, and privacy.",
     to: "/soc-audit",
     tag: "SOC AUDITS",
   },
@@ -72,7 +72,7 @@ const securityCards = [
     ],
     title: "IoT & Device Security",
     desc: "Evaluates administrative, technical, and physical safeguards.",
-    to: "/iot-security",
+    to: "/iot-Security",
     tag: "DEVICES",
   },
 ];
@@ -87,11 +87,11 @@ const standardsCards = [
   },
   {
     title: "ISO/IEC 27000",
-    desc: "Defines the vocabulary and foundational concepts for the entire ISO 27000 family of information security standards.",
+    desc: "Defines the vocabulary and foundational concepts for the entire ISO 27000 family of information Security standards.",
   },
   {
     title: "ETSI EN 303 645",
-    desc: "Defines cybersecurity requirements for consumer IoT devices to prevent common security threats.",
+    desc: "Defines cybersecurity requirements for consumer IoT devices to prevent common Security threats.",
   },
   {
     title: "ISO/IEC 27701",
@@ -103,7 +103,7 @@ const standardsCards = [
   },
   {
     title: "SOC 3",
-    desc: "Publicly shareable security report for marketing and enterprise client trust.",
+    desc: "Publicly shareable Security report for marketing and enterprise client trust.",
   },
 ];
 
@@ -159,7 +159,7 @@ function Hero() {
                 Start Free Audit
                 <Icon path="M5 12h14M12 5l7 7-7 7" className="h-4 w-4" />
               </Link>
-              <a href="#services" className="btn btn-outline btn-lg">
+              <a href="#Services" className="btn btn-outline btn-lg">
                 View Platform
               </a>
             </div>
@@ -260,12 +260,12 @@ function Hero() {
 
 function SecurityCards() {
   return (
-    <Section id="services" className="bg-white">
+    <Section id="Services" className="bg-white">
       <Container>
         <SectionHead
           eyebrow="What we do"
           title="Comprehensive Security and compliance"
-          highlight="services"
+          highlight="Services"
           subtitle="From penetration testing to certification audits, one division covers your entire Security and compliance roadmap."
         />
 
@@ -325,7 +325,7 @@ function SoftwareTesting() {
         <SectionHead
           eyebrow="Software Testing"
           title="Structured work instructions for"
-          highlight="IoT & software security"
+          highlight="IoT & software Security"
           subtitle="ITC India has developed specialized internal work instructions for IoT and Drone Security Testing, ensuring repeatable and high-quality assessments."
         />
 
@@ -373,12 +373,12 @@ function SoftwareTesting() {
           ))}
         </div>
 
-        {/* device security band */}
+        {/* device Security band */}
         <div className="mt-6 grid gap-6 rounded-[1.75rem] border border-brand-200 bg-white p-7 shadow-[var(--shadow-soft)] sm:p-9 lg:grid-cols-[1.3fr_1fr]">
           <div>
             <span className="eyebrow eyebrow-dark">IoT Device Security</span>
             <h3 className="mt-4 text-2xl font-extrabold text-ink-950 sm:text-3xl">
-              Device security assessments follow globally recognized
+              Device Security assessments follow globally recognized
               cybersecurity standards
             </h3>
             <p className="mt-4 text-sm leading-relaxed text-ink-600">
@@ -390,7 +390,7 @@ function SoftwareTesting() {
 
             <div className="mt-6 grid gap-3 sm:grid-cols-2">
               {[
-                "Common security vulnerabilities",
+                "Common Security vulnerabilities",
                 "Authentication & access control",
                 "Secure communications & OTA updates",
               ].map((t) => (
@@ -408,7 +408,7 @@ function SoftwareTesting() {
             </div>
 
             <div className="mt-6 flex flex-wrap gap-3">
-              <Link to="/iot-security" className="btn btn-primary btn-sm">
+              <Link to="/iot-Security" className="btn btn-primary btn-sm">
                 IoT Security Testing
               </Link>
               <Link to="/drone-testing" className="btn btn-outline btn-sm">
@@ -460,7 +460,7 @@ function Industries() {
           eyebrow="Industry Solutions"
           title="Tailored Security for"
           highlight="Every Industry"
-          subtitle="Different industries face unique cyber threats. Our specialized solutions address the specific security challenges of your sector."
+          subtitle="Different industries face unique cyber threats. Our specialized solutions address the specific Security challenges of your sector."
         />
 
         <p className="mt-3 text-center text-base font-semibold text-brand-700">
@@ -758,7 +758,7 @@ function Faq() {
             </h2>
             <p className="mt-4 max-w-md text-base leading-relaxed text-ink-600">
               Everything teams ask us before kickoff. Can&apos;t find what you&apos;re
-              looking for? Our security advisors reply within one business day.
+              looking for? Our Security advisors reply within one business day.
             </p>
 
             <div className="mt-8 space-y-3">
@@ -776,7 +776,7 @@ function Faq() {
                     "M12 3a9 9 0 100 18 9 9 0 000-18z",
                     "M12 7v5l3 2",
                   ],
-                  title: "Talk to a security advisor",
+                  title: "Talk to a Security advisor",
                   desc: "Scope a pen test or audit with a certified assessor.",
                 },
               ].map((x) => (

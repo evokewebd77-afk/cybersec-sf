@@ -4,7 +4,7 @@ export const iso27001 = {
   titleAccent: "Secure Your Digital Future. Build Unbreakable Trust. Lead with Compliance.",
 
   definition:
-    "In a global economy, security is the ultimate currency. ISO 27001 is the passport to enterprise deals and customer loyalty.",
+    "In a global economy, Security is the ultimate currency. ISO 27001 is the passport to enterprise deals and customer loyalty.",
 
   pillars: [
     {
@@ -25,7 +25,7 @@ export const iso27001 = {
     {
       title: "Risk Management",
       icon: ["M12 2l10 18H2L12 2z", "M12 9v4M12 17h.01"],
-      desc: "Systematic identification and treatment of information security risks.",
+      desc: "Systematic identification and treatment of information Security risks.",
     },
   ],
 
@@ -77,7 +77,7 @@ export const iso27001 = {
     steps: [
       {
         title: "ISMS Design",
-        desc: "Detailed assessment of current security vs ISO 27001 requirements.",
+        desc: "Detailed assessment of current Security vs ISO 27001 requirements.",
       },
       {
         title: "Implementation",
@@ -85,11 +85,11 @@ export const iso27001 = {
       },
       {
         title: "Staff Training",
-        desc: "Deploying technical and organizational security measures.",
+        desc: "Deploying technical and organizational Security measures.",
       },
       {
         title: "Internal Audit",
-        desc: "Building a culture of security awareness across the enterprise.",
+        desc: "Building a culture of Security awareness across the enterprise.",
       },
       {
         title: "Certification Support",
@@ -117,7 +117,7 @@ export const iso27001 = {
       },
       {
         title: "Vendor Risk",
-        desc: "Managing third-party security compliance.",
+        desc: "Managing third-party Security compliance.",
       },
       {
         title: "Operations",
@@ -140,7 +140,7 @@ export const iso27001 = {
       },
       {
         title: "Compliance Mastery",
-        desc: "We benchmark your security posture against the most strenuous international frameworks, guaranteeing regulatory success and client trust.",
+        desc: "We benchmark your Security posture against the most strenuous international frameworks, guaranteeing regulatory success and client trust.",
       },
     ],
   },
@@ -213,7 +213,7 @@ export const iso27001 = {
     },
     {
       q: "Is ISO 27001 globally recognized?",
-      a: "Yes, it is the gold standard for information security worldwide, making it essential for companies handling global client data.",
+      a: "Yes, it is the gold standard for information Security worldwide, making it essential for companies handling global client data.",
     },
   ],
 };

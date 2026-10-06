@@ -6,7 +6,7 @@ export const soc3 = {
   features: {
     title: "Turn Compliance into Trust",
     eyebrow: "UNDERSTANDING THE DISTINCTION",
-    lead: "SOC 3 is a public report that confirms an organization meets SOC 2 security standards based on Trust Services Criteria.",
+    lead: "SOC 3 is a public report that confirms an organization meets SOC 2 Security standards based on Trust Services Criteria.",
     cards: [
       {
         title: "Shared Freely",
@@ -14,7 +14,7 @@ export const soc3 = {
       },
       {
         title: "Marketing Asset",
-        desc: "Used extensively in marketing materials to prove your security posture.",
+        desc: "Used extensively in marketing materials to prove your Security posture.",
       },
       {
         title: "No NDA Required",
@@ -46,7 +46,7 @@ export const soc3 = {
       "SOC 3 is not just compliance\u2014it's a trust badge for your business. Think of SOC 3 as your \u201csecurity certificate for the public.\u201d",
     items: [
       "Build trust with customers instantly",
-      "Showcase security directly on your website",
+      "Showcase Security directly on your website",
       "Strengthen overall brand credibility",
       "Support powerful sales and marketing efforts",
       "Stand out from unprepared competitors",
@@ -57,7 +57,7 @@ export const soc3 = {
     eyebrow: "SEO BOOST",
     title: "Requirements for",
     highlight: "SOC 3",
-    lead: "To get SOC 3, you must fulfill foundational security criteria.",
+    lead: "To get SOC 3, you must fulfill foundational Security criteria.",
     boxes: [
       {
         num: "01",
@@ -142,7 +142,7 @@ export const soc3 = {
       },
       {
         title: "Marketing Advantage",
-        desc: "Get SOC 3 certified and proudly showcase your superior security to the world.",
+        desc: "Get SOC 3 certified and proudly showcase your superior Security to the world.",
       },
     ],
   },
@@ -158,7 +158,7 @@ export const soc3 = {
       "Companies targeting global clients",
     ],
     highlightBox:
-      "👉 If you want to showcase your security publicly to drive sales, SOC 3 is ideal.",
+      "👉 If you want to showcase your Security publicly to drive sales, SOC 3 is ideal.",
   },
 
   plans: [
@@ -210,7 +210,7 @@ export const soc3 = {
   faqs: [
     {
       q: "What is SOC 3 certification?",
-      a: "SOC 3 is a public report that confirms an organization meets SOC 2 security standards based on Trust Services Criteria.",
+      a: "SOC 3 is a public report that confirms an organization meets SOC 2 Security standards based on Trust Services Criteria.",
     },
     {
       q: "Can SOC 3 be shared publicly?",

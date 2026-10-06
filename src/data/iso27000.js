@@ -3,7 +3,7 @@ export const iso27000 = {
   title: "ISO 27000",
   titleAccent: "The Blueprint for Resilience. The Foundation for Trust. Your Security North Star.",
   subtitle:
-    "Leading organizations don't stop at 27001. They leverage the full intelligence of the ISO 27000 series to build a culture of security wisdom.",
+    "Leading organizations don't stop at 27001. They leverage the full intelligence of the ISO 27000 series to build a culture of Security wisdom.",
 
   ecosystem: {
     eyebrow: "THE SECURITY ECOSYSTEM",
@@ -18,7 +18,7 @@ export const iso27000 = {
       {
         code: "ISO 27002",
         title: "Implementation Guide",
-        desc: "The colossal catalog of security control best practices.",
+        desc: "The colossal catalog of Security control best practices.",
         tags: ["Control Details", "Organizational Tips"],
       },
       {
@@ -41,7 +41,7 @@ export const iso27000 = {
     title: "Why Focus on the",
     highlight: "ISO 27000 Series",
     lead:
-      "Choose the level of security maturity you aim to achieve with our guidance.",
+      "Choose the level of Security maturity you aim to achieve with our guidance.",
     items: [
       { title: "Deepened Security Intelligence", desc: "Find the standards that define your success." },
       {
@@ -50,7 +50,7 @@ export const iso27000 = {
       },
       {
         title: "Robust Legal Documentation",
-        desc: "How we transform your security posture into an enterprise-grade library of excellence.",
+        desc: "How we transform your Security posture into an enterprise-grade library of excellence.",
       },
       {
         title: "Scalable Governance Models",
@@ -62,7 +62,7 @@ export const iso27000 = {
       },
     ],
     detail: [
-      "Evaluating the maturity of your current security vocabulary and processes.",
+      "Evaluating the maturity of your current Security vocabulary and processes.",
       "Setting up the high-level governance needed to manage Global Security.",
       "Ensuring your team speaks the common language of the ISO 27000 series.",
       "Continuous improvement cycles based on the ISO 27000 framework.",

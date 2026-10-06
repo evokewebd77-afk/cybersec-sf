@@ -57,7 +57,7 @@ export default function Footer() {
 
           <p className="mt-5 max-w-sm text-sm leading-relaxed text-ink-600">
             Elevating Global Security standards through advanced VAPT, IoT
-            security, and comprehensive compliance frameworks. Your trusted
+            Security, and comprehensive compliance frameworks. Your trusted
             partner in digital resilience.
           </p>
 

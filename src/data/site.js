@@ -35,14 +35,14 @@ export const site = {
 
 export const nav = {
   about: { label: "About", to: "/about" },
-  services: {
+  Services: {
     label: "Services",
     items: [
       { label: "VAPT", to: "/vapt", desc: "Application Security Testing" },
       { label: "WAPT", to: "/wapt", desc: "Web App Penetration Testing" },
-      { label: "IoT Security", to: "/iot-security", desc: "Connected device testing" },
-      { label: "AI/ML Security", to: "/ai-ml-security", desc: "Model & GenAI testing" },
-      { label: "Drone Testing", to: "/drone-testing", desc: "UAV ecosystem security" },
+      { label: "IoT Security", to: "/iot-Security", desc: "Connected device testing" },
+      { label: "AI/ML Security", to: "/ai-ml-Security", desc: "Model & GenAI testing" },
+      { label: "Drone Testing", to: "/drone-testing", desc: "UAV ecosystem Security" },
     ],
   },
   audits: {
@@ -50,7 +50,7 @@ export const nav = {
     items: [
       { label: "SOC 2 Audit", to: "/soc-audit", desc: "Trust Services Criteria" },
       { label: "SOC 3 Audit", to: "/soc3-audit", desc: "Public trust report" },
-      { label: "HIPAA Audit", to: "/hipaa-audit", desc: "Healthcare data security" },
+      { label: "HIPAA Audit", to: "/hipaa-audit", desc: "Healthcare data Security" },
     ],
   },
   certifications: {
@@ -133,7 +133,7 @@ export const certifications = [
     code: "ETSI",
     title: "ETSI EN 303 645",
     desc: "IoT Security",
-    to: "/iot-security",
+    to: "/iot-Security",
   },
   {
     code: "ISO",

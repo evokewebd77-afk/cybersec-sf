@@ -25,18 +25,18 @@ export const drone = {
       {
         icon: "cloud",
         label: "Cloud",
-        desc: "Cloud platforms, APIs, and backend services",
+        desc: "Cloud platforms, APIs, and backend Services",
       },
     ],
     goal:
-      "By simulating real-world attack scenarios, we uncover weaknesses that could be exploited and provide clear remediation guidance to strengthen your drone security posture.",
+      "By simulating real-world attack scenarios, we uncover weaknesses that could be exploited and provide clear remediation guidance to strengthen your drone Security posture.",
   },
 
   importance: {
     eyebrow: "CRITICAL IMPORTANCE",
     title: "Why Drone Security Testing is",
     highlight: "Important",
-    lead: "A single security flaw in a drone system can lead to:",
+    lead: "A single Security flaw in a drone system can lead to:",
     risks: [
       "Loss of control or drone seizure",
       "GPS spoofing or signal manipulation",
@@ -49,22 +49,22 @@ export const drone = {
       "Protect sensitive data and operations",
       "Prevent unauthorized drone access or misuse",
       "Ensure safe and reliable drone operations",
-      "Meet regulatory and industry security requirements",
+      "Meet regulatory and industry Security requirements",
       "Build trust with customers and regulators",
     ],
     closing:
-      "In high-risk environments, drone security is mission-critical.",
+      "In high-risk environments, drone Security is mission-critical.",
   },
 
-  services: {
+  Services: {
     title: "Our Drone Security",
     highlight: "Testing Services",
     lead:
-      "Comprehensive security assessment for your entire drone ecosystem.",
+      "Comprehensive Security assessment for your entire drone ecosystem.",
     cards: [
       {
         title: "Drone Hardware & Firmware Security",
-        desc: "Complete firmware and hardware security assessment.",
+        desc: "Complete firmware and hardware Security assessment.",
         points: [
           "Firmware analysis and integrity validation",
           "Secure boot and firmware update mechanism testing",
@@ -76,7 +76,7 @@ export const drone = {
         title: "Communication & Control Link Testing",
         desc: "Secure communication protocols and signal integrity.",
         points: [
-          "RF, Wi-Fi, LTE/5G communication security testing",
+          "RF, Wi-Fi, LTE/5G communication Security testing",
           "Encryption and authentication validation",
           "Command injection and replay attack testing",
           "GPS spoofing and signal interference risk analysis",
@@ -93,7 +93,7 @@ export const drone = {
       },
       {
         title: "Backend, Cloud & API Security",
-        desc: "Cloud infrastructure and API security assessment.",
+        desc: "Cloud infrastructure and API Security assessment.",
         points: [
           "API authentication and authorization testing",
           "Cloud configuration and access control review",
@@ -113,7 +113,7 @@ export const drone = {
       },
       {
         title: "Automated & Manual Testing",
-        desc: "Automated and manual security testing.",
+        desc: "Automated and manual Security testing.",
       },
       {
         title: "Controlled Exploitation",
@@ -168,11 +168,11 @@ export const drone = {
   },
 
   choose: {
-    lead: "If your drones are connected, autonomous, or data-driven, security testing is essential.",
+    lead: "If your drones are connected, autonomous, or data-driven, Security testing is essential.",
     items: [
       {
-        title: "Specialized expertise in IoT and drone security",
-        desc: "Deep knowledge of drone and IoT security testing.",
+        title: "Specialized expertise in IoT and drone Security",
+        desc: "Deep knowledge of drone and IoT Security testing.",
       },
       {
         title: "Manual testing beyond automated scanners",
@@ -188,7 +188,7 @@ export const drone = {
       },
       {
         title: "Support from assessment to remediation",
-        desc: "Ongoing support throughout the security process.",
+        desc: "Ongoing support throughout the Security process.",
       },
     ],
     extra: ["Verification of fixes at no additional cost."],
@@ -202,13 +202,13 @@ export const drone = {
       price: "$1000",
       period: "/ drone / month",
       targets: "1 Drone Unit / Model",
-      bestFor: "Individual drone security check",
+      bestFor: "Individual drone Security check",
       cta: "Start Assessment",
       features: [
         { label: "Hardware & debug port analysis" },
         { label: "Firmware integrity verification" },
         { label: "Basic communication link testing" },
-        { label: "Standard security report" },
+        { label: "Standard Security report" },
       ],
     },
     {
@@ -236,7 +236,7 @@ export const drone = {
       bestFor: "Enterprise & Defense Fleets",
       cta: "Contact Sales",
       features: [
-        { label: "Fleet-wide security assessment" },
+        { label: "Fleet-wide Security assessment" },
         { label: "Advanced signal exploitation" },
         { label: "Custom mission risk analysis" },
         { label: "Compliance with aviation standards" },
@@ -248,7 +248,7 @@ export const drone = {
   faqs: [
     {
       q: "Do you hack our drones?",
-      a: "No. We do not hack drones illegally or unsafely. All drone security testing is performed with proper authorization and defined scope. We conduct ethical, controlled testing to simulate real-world attacks without damaging hardware or disrupting operations.",
+      a: "No. We do not hack drones illegally or unsafely. All drone Security testing is performed with proper authorization and defined scope. We conduct ethical, controlled testing to simulate real-world attacks without damaging hardware or disrupting operations.",
     },
     {
       q: "Do you hack or damage the drone during testing?",
@@ -256,10 +256,10 @@ export const drone = {
     },
     {
       q: "What parts of a drone system are tested?",
-      a: "We can test: Drone firmware and hardware interfaces, communication links (RF, Wi-Fi, LTE/5G), ground control stations and mobile apps, and backend servers, APIs, and cloud services.",
+      a: "We can test: Drone firmware and hardware interfaces, communication links (RF, Wi-Fi, LTE/5G), ground control stations and mobile apps, and backend servers, APIs, and cloud Services.",
     },
     {
-      q: "Why is drone security important?",
+      q: "Why is drone Security important?",
       a: "Drones are connected IoT devices. Security gaps can lead to drone seizures, GPS spoofing, data leakage, unauthorized firmware changes, and compliance violations.",
     },
     {
@@ -280,7 +280,7 @@ export const drone = {
     },
     {
       q: "What will we receive after the assessment?",
-      a: "You will receive a detailed security report including: Executive summary, vulnerability findings, risk severity and impact, Proof of Concept (PoC), remediation recommendations, and compliance mapping (OWASP IoT & ETSI EN 303 645).",
+      a: "You will receive a detailed Security report including: Executive summary, vulnerability findings, risk severity and impact, Proof of Concept (PoC), remediation recommendations, and compliance mapping (OWASP IoT & ETSI EN 303 645).",
     },
     {
       q: "Who should opt for Drone Security Testing?",

@@ -5,7 +5,7 @@ export const soc2 = {
 
   framework: {
     eyebrow: "UNDERSTANDING THE FRAMEWORK",
-    lead: "SOC 2 is an independent attestation over the Trust Services Criteria, covering the security, availability, confidentiality, processing integrity, and privacy of your systems.",
+    lead: "SOC 2 is an independent attestation over the Trust Services Criteria, covering the Security, availability, confidentiality, processing integrity, and privacy of your systems.",
     groups: [
       {
         title: "Security",
@@ -22,7 +22,7 @@ export const soc2 = {
         title: "Availability",
         icon: ["M20 12a8 8 0 11-2.3-5.6", "M20 4v5h-5"],
         items: [
-          "Systems, products, or services are available for operation and use",
+          "Systems, products, or Services are available for operation and use",
           "Disaster Recovery",
           "DDoS Mitigation",
           "Performance Monitoring",
@@ -66,8 +66,8 @@ export const soc2 = {
     highlight: "is Important",
     items: [
       "Build trust with global clients",
-      "Meet strict enterprise security requirements",
-      "Strengthen internal security controls",
+      "Meet strict enterprise Security requirements",
+      "Strengthen internal Security controls",
       "Reduce devastating cybersecurity risks",
       "Gain a powerful competitive edge",
     ],
@@ -82,7 +82,7 @@ export const soc2 = {
       quote: "Readiness & Baseline Proof",
       includes: [
         "Review of policies and procedures",
-        "Evaluation of security control design",
+        "Evaluation of Security control design",
         "Snapshot-based audit",
       ],
       bestFor: [
@@ -97,7 +97,7 @@ export const soc2 = {
       quote: "Ongoing Trust & Operational Proof",
       includes: [
         "Continuous monitoring of controls",
-        "Real-world validation of security practices",
+        "Real-world validation of Security practices",
       ],
       bestFor: [
         "SaaS companies scaling globally",
@@ -123,7 +123,7 @@ export const soc2 = {
     eyebrow: "HOW WE WORK",
     title: "Our End-to-End",
     highlight: "SOC 2 Process",
-    lead: "We provide end-to-end SOC 2 compliance services mapping the entire journey to certification.",
+    lead: "We provide end-to-end SOC 2 compliance Services mapping the entire journey to certification.",
     steps: [
       {
         title: "Gap Assessment",
@@ -131,7 +131,7 @@ export const soc2 = {
       },
       {
         title: "Readiness Implementation",
-        desc: "Set up policies, controls, and security processes.",
+        desc: "Set up policies, controls, and Security processes.",
       },
       {
         title: "Documentation & Evidence",
@@ -147,7 +147,7 @@ export const soc2 = {
       },
       {
         title: "Continuous Compliance",
-        desc: "Ongoing monitoring and security improvements.",
+        desc: "Ongoing monitoring and Security improvements.",
       },
     ],
   },

@@ -3,7 +3,7 @@ export const iot = {
   title: "IoT Security Testing",
   titleAccent: "Secure Your Connected Devices Before They Become a Cyber Risk",
   subtitle:
-    "A hybrid IoT security testing approach, combining automation with deep manual analysis.",
+    "A hybrid IoT Security testing approach, combining automation with deep manual analysis.",
 
   whatIs: {
     eyebrow: "UNDERSTANDING IOT SECURITY",
@@ -22,7 +22,7 @@ export const iot = {
       { icon: "M7 2h10v20H7z", label: "Mobile and web applications" },
       {
         icon: "M6 18h12v-2H6zm-2-4h16v-4H4zm2-6h12V6H6z",
-        label: "APIs and cloud services",
+        label: "APIs and cloud Services",
         wide: true,
       },
     ],
@@ -31,7 +31,7 @@ export const iot = {
   critical: {
     title: "Why IoT Security Testing is",
     highlight: "Critical",
-    lead: "IoT devices introduce a new attack surface, often lacking built-in security controls. A single compromised device can lead to:",
+    lead: "IoT devices introduce a new attack surface, often lacking built-in Security controls. A single compromised device can lead to:",
     risks: [
       { icon: "M12 2a5 5 0 015 5v2h2a5 5 0 015 5 5 5 0 01-5 5h-2v2a5 5 0 01-5 5 5 5 0 01-5-5v-2H5a5 5 0 01-5-5 5 5 0 015-5h2V7a5 5 0 015-5z", label: "Unauthorized device control" },
       { icon: "M1 21h22L12 2 1 21z", label: "Operational disruption" },
@@ -42,10 +42,10 @@ export const iot = {
     ],
   },
 
-  services: {
+  Services: {
     title: "Our IoT Security",
     highlight: "Testing Services",
-    lead: "Comprehensive security assessment for your entire IoT ecosystem.",
+    lead: "Comprehensive Security assessment for your entire IoT ecosystem.",
     cards: [
       {
         title: "Device Hardware & Firmware Security",
@@ -77,7 +77,7 @@ export const iot = {
       },
       {
         title: "Cloud, API & Backend Security",
-        desc: "API and application layer security testing.",
+        desc: "API and application layer Security testing.",
         points: [
           "IAM and privilege assessment",
           "Multi-tenant isolation validation",
@@ -97,7 +97,7 @@ export const iot = {
         title: "Automated Analysis",
         desc: "Automated vulnerability scanning and testing.",
       },
-      { title: "Manual Testing", desc: "Deep manual security assessment." },
+      { title: "Manual Testing", desc: "Deep manual Security assessment." },
       {
         title: "Exploitation",
         desc: "Controlled exploitation and impact validation.",
@@ -137,7 +137,7 @@ export const iot = {
 
   whoShould: {
     title: "Who Should Opt for",
-    lead: "IoT security testing is critical for startups, manufacturers, service providers, and enterprises.",
+    lead: "IoT Security testing is critical for startups, manufacturers, service providers, and enterprises.",
     items: [
       "IoT device manufacturers and OEMs",
       "Smart home and consumer electronics companies",
@@ -151,11 +151,11 @@ export const iot = {
   },
 
   choose: {
-    lead: "If your product is connected, autonomous, or data-driven, IoT security testing is essential.",
+    lead: "If your product is connected, autonomous, or data-driven, IoT Security testing is essential.",
     items: [
       {
-        title: "Specialized expertise in IoT and embedded security",
-        desc: "Deep knowledge in IoT and embedded systems security testing.",
+        title: "Specialized expertise in IoT and embedded Security",
+        desc: "Deep knowledge in IoT and embedded systems Security testing.",
       },
       {
         title: "Manual assessment beyond scanner results",
@@ -171,7 +171,7 @@ export const iot = {
       },
       {
         title: "Support from assessment through remediation",
-        desc: "We focus on real-world risk reduction, not checkbox security.",
+        desc: "We focus on real-world risk reduction, not checkbox Security.",
       },
     ],
   },
@@ -199,7 +199,7 @@ export const iot = {
       bestFor: "Complex IoT/IIoT Deployments",
       cta: "Get Full Coverage",
       features: [
-        { label: "Full product security validation" },
+        { label: "Full product Security validation" },
         { label: "Communication protocol testing" },
         { label: "Network-wide IoT audits" },
         { label: "Embedded systems code review" },
@@ -214,7 +214,7 @@ export const iot = {
       cta: "Contact Sales",
       features: [
         { label: "Compliance mapping (ETSI EN 303 645)" },
-        { label: "Dedicated IoT security expert" },
+        { label: "Dedicated IoT Security expert" },
         { label: "Custom test scenarios" },
       ],
     },
@@ -223,7 +223,7 @@ export const iot = {
   faqs: [
     {
       q: "What is IoT Security Testing?",
-      a: "IoT Security Testing is a structured cybersecurity assessment of Internet of Things (IoT) devices and their supporting ecosystem. It evaluates device hardware, firmware, communication protocols, applications, APIs, and cloud infrastructure to identify security, privacy, and safety risks.",
+      a: "IoT Security Testing is a structured cybersecurity assessment of Internet of Things (IoT) devices and their supporting ecosystem. It evaluates device hardware, firmware, communication protocols, applications, APIs, and cloud infrastructure to identify Security, privacy, and safety risks.",
     },
     {
       q: "How is IoT Security Testing different from traditional VAPT?",
@@ -259,11 +259,11 @@ export const iot = {
     },
     {
       q: "How often should IoT Security Testing be performed?",
-      a: "We recommend testing before product launch or market entry, after firmware updates or hardware changes, when adding new cloud services or APIs, and before regulatory audits or certifications.",
+      a: "We recommend testing before product launch or market entry, after firmware updates or hardware changes, when adding new cloud Services or APIs, and before regulatory audits or certifications.",
     },
     {
       q: "Is IoT Security Testing only for large enterprises?",
-      a: "No. IoT Security Testing is critical for startups, manufacturers, service providers, and enterprises. Early testing reduces long-term security, safety, and compliance risks.",
+      a: "No. IoT Security Testing is critical for startups, manufacturers, service providers, and enterprises. Early testing reduces long-term Security, safety, and compliance risks.",
     },
     {
       q: "Do you provide remediation and retesting support?",

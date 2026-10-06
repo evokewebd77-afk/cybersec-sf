@@ -168,7 +168,7 @@ export const dpdpa = {
     items: [
       {
         title: "BFSI",
-        desc: "Banking, financial services, and insurance handling sensitive consumer data.",
+        desc: "Banking, financial Services, and insurance handling sensitive consumer data.",
       },
       {
         title: "Healthcare",
@@ -184,7 +184,7 @@ export const dpdpa = {
       },
       {
         title: "Technology",
-        desc: "SaaS platforms, cloud services, and digital products processing user data at scale.",
+        desc: "SaaS platforms, cloud Services, and digital products processing user data at scale.",
       },
     ],
   },

@@ -204,7 +204,7 @@ export default function Iso27001() {
       <FaqSection faqs={d.faqs} />
       <FinalCta
         title="Start Your ISO 27001 Journey Today"
-        lead="In a global economy, security is the ultimate currency. ISO 27001 is the passport to enterprise deals and customer loyalty."
+        lead="In a global economy, Security is the ultimate currency. ISO 27001 is the passport to enterprise deals and customer loyalty."
         primary="Start Your Audit"
         secondary="View Plans"
       />

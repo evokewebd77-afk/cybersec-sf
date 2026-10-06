@@ -114,7 +114,7 @@ export default function Navbar() {
           >
             {nav.about.label}
           </NavLink>
-          <Dropdown label="Services" items={nav.services.items} />
+          <Dropdown label="Services" items={nav.Services.items} />
           <Dropdown label="Audits" items={nav.audits.items} />
           <Dropdown label="Certifications" items={nav.certifications.items} />
         </nav>
@@ -170,7 +170,7 @@ export default function Navbar() {
         >
           <MobileGroup label={nav.about.label} to={nav.about.to} onClick={close} />
           {[
-            ["Services", nav.services.items],
+            ["Services", nav.Services.items],
             ["Audits", nav.audits.items],
             ["Certifications", nav.certifications.items],
           ].map(([label, items]) => (

@@ -4,7 +4,7 @@ export const about = {
   titleAccent: "Digital Frontier",
 
   mission:
-    "To eliminate cybersecurity blind spots and empower organizations with robust, transparent, and scalable security architectures.",
+    "To eliminate cybersecurity blind spots and empower organizations with robust, transparent, and scalable Security architectures.",
 
   stats: [
     { value: "10+", label: "Years Experience" },
@@ -40,7 +40,7 @@ export const about = {
     title: "Driven by",
     highlight: "Principles",
     items: [
-      { title: "Absolute Integrity", desc: "Zero tolerance for shortcuts in security work." },
+      { title: "Absolute Integrity", desc: "Zero tolerance for shortcuts in Security work." },
       { title: "Cutting-Edge Innovation", desc: "Continuous investment in tooling and research." },
       { title: "Client-Centric Protection", desc: "Your risk profile is the only one that matters." },
       { title: "Global Excellence", desc: "Work measured against the highest international benchmarks." },
@@ -51,16 +51,16 @@ export const about = {
     eyebrow: "GLOBAL STANDARDS",
     title: "Compliance Mastery",
     lead:
-      "We benchmark your security posture against the most strenuous international frameworks, guaranteeing regulatory success and client trust.",
+      "We benchmark your Security posture against the most strenuous international frameworks, guaranteeing regulatory success and client trust.",
     items: [
       {
         title: "OWASP Top 10",
-        desc: "Gold standard for web application security.",
+        desc: "Gold standard for web application Security.",
         badge: "OWASP",
       },
       {
         title: "SOC 2 Type II",
-        desc: "Comprehensive information security management.",
+        desc: "Comprehensive information Security management.",
         badge: "AICPA",
       },
       { title: "NIST CSF", desc: "US government framework for critical infrastructure.", badge: "NIST" },
@@ -84,7 +84,7 @@ export const about = {
         items: [
           "Public-facing and internal web applications",
           "OWASP Top 10 aligned vulnerability assessment",
-          "API & microservices security testing",
+          "API & microservices Security testing",
           "Authentication, session & access control validation",
           "Manual testing combined with automated tools",
         ],
@@ -104,12 +104,12 @@ export const about = {
           "Mobile applications (Android & iOS)",
           "Secure API and backend testing",
           "OWASP Mobile Top 10 vulnerability coverage",
-          "Data storage, encryption & communication security",
+          "Data storage, encryption & communication Security",
           "Manual + automated hybrid testing approach",
         ],
         sub: "Coverage Depth",
         subText: [
-          "Comprehensive testing across mobile app architecture, API communication, authentication flows, and sensitive data handling to identify security gaps.",
+          "Comprehensive testing across mobile app architecture, API communication, authentication flows, and sensitive data handling to identify Security gaps.",
           "Assessment of reverse engineering risks, insecure storage, and improper session handling in real-world scenarios.",
         ],
         sub1: "Operational Readiness",
@@ -120,7 +120,7 @@ export const about = {
   },
 
   pillars: [
-    "To eliminate cybersecurity blind spots and empower organizations with robust, transparent, and scalable security architectures.",
+    "To eliminate cybersecurity blind spots and empower organizations with robust, transparent, and scalable Security architectures.",
     "Trust is the currency of cybersecurity. We operate with unwavering transparency and ethics.",
     "The threat landscape evolves hourly. Our defense mechanisms evolve even faster.",
   ],

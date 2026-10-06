@@ -236,7 +236,7 @@ export default function Vapt() {
       <PlansSection plans={vapt.plans} />
       <FinalCta
         title="Secure Your Application Today"
-        lead="Choose the right security testing plan for your application's specific needs and scale."
+        lead="Choose the right Security testing plan for your application's specific needs and scale."
         secondary="View Pricing"
       />
       <ContactSection />

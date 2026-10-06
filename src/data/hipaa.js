@@ -5,7 +5,7 @@ export const hipaa = {
 
   standard: {
     eyebrow: "GLOBAL HEALTHCARE STANDARD",
-    lead: "HIPAA (Health Insurance Portability and Accountability Act) is a global standard for protecting Protected Health Information (PHI). It ensures that organizations handling healthcare data maintain strict security measures.",
+    lead: "HIPAA (Health Insurance Portability and Accountability Act) is a global standard for protecting Protected Health Information (PHI). It ensures that organizations handling healthcare data maintain strict Security measures.",
     pillars: [
       {
         title: "Confidentiality",
@@ -46,7 +46,7 @@ export const hipaa = {
     groups: [
       {
         title: "Administrative Safeguards",
-        lead: "Policies and procedures to manage security risks.",
+        lead: "Policies and procedures to manage Security risks.",
         points: [
           "Risk analysis & risk management",
           "Employee training & awareness",
@@ -68,7 +68,7 @@ export const hipaa = {
         lead: "Protection of physical systems and infrastructure.",
         points: [
           "Secure facilities and devices",
-          "Workstation security",
+          "Workstation Security",
           "Device & media controls",
           "Physical access restrictions",
         ],

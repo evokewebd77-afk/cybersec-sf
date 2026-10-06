@@ -85,11 +85,11 @@ export default function AimlSecurity() {
       <Section className="bg-white">
         <Container>
           <SectionHead
-            title={aiml.services.title}
-            highlight={aiml.services.highlight}
-            subtitle={aiml.services.lead}
+            title={aiml.Services.title}
+            highlight={aiml.Services.highlight}
+            subtitle={aiml.Services.lead}
           />
-          <ServiceCards cards={aiml.services.cards} columns={3} />
+          <ServiceCards cards={aiml.Services.cards} columns={3} />
         </Container>
       </Section>
 

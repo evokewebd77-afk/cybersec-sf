@@ -222,7 +222,7 @@ export default function Soc3Audit() {
       <FaqSection faqs={soc3.faqs} />
       <FinalCta
         title="Start Your SOC 3 Journey"
-        lead="Get SOC 3 certified and proudly showcase your superior security to the world."
+        lead="Get SOC 3 certified and proudly showcase your superior Security to the world."
         primary="Get SOC 3 Certified"
         secondary="View Pricing"
       />

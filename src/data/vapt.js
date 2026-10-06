@@ -50,7 +50,7 @@ export const vapt = {
       },
       {
         title: "OWASP Top 10 Coverage",
-        desc: "Full coverage of the most critical web application security risks.",
+        desc: "Full coverage of the most critical web application Security risks.",
         points: [
           "SQL Injection, XSS, and CSRF vulnerabilities",
           "Insecure deserialization and XXE attacks",
@@ -72,7 +72,7 @@ export const vapt = {
         points: [
           "AWS, Azure, GCP misconfiguration checks",
           "IAM role and permission policy review",
-          "Serverless and container security assessment",
+          "Serverless and container Security assessment",
         ],
       },
     ],
@@ -83,7 +83,7 @@ export const vapt = {
     title: "Our Testing",
     highlight: "Approach",
     subtitle:
-      "Application testing matters for everyone who depends on working software. If your application handles users or data, security testing is essential.",
+      "Application testing matters for everyone who depends on working software. If your application handles users or data, Security testing is essential.",
     steps: [
       {
         title: "Scoping & Asset Identification",
@@ -107,7 +107,7 @@ export const vapt = {
       },
       {
         title: "Retesting & Validation",
-        desc: "Verify all fixes are properly implemented and all security gaps are closed.",
+        desc: "Verify all fixes are properly implemented and all Security gaps are closed.",
       },
     ],
     highlightPoints: [
@@ -119,7 +119,7 @@ export const vapt = {
   report: {
     title: "What You Get in the",
     highlight: "Report",
-    lead: "Application testing matters for everyone who depends on working software. If your application handles users or data, security testing is essential.",
+    lead: "Application testing matters for everyone who depends on working software. If your application handles users or data, Security testing is essential.",
     items: [
       "Executive summary for management",
       "Detailed technical vulnerability findings",
@@ -135,7 +135,7 @@ export const vapt = {
     title: "Who Needs",
     highlight: "Application Testing",
     lead:
-      "Choose the right security testing plan for your application's specific needs and scale.",
+      "Choose the right Security testing plan for your application's specific needs and scale.",
     items: [
       "SaaS & Startup Products",
       "E-commerce Platforms",
@@ -180,7 +180,7 @@ export const vapt = {
       features: [
         { label: "Single application testing" },
         { label: "Comprehensive vulnerability scanning" },
-        { label: "Manual security verification" },
+        { label: "Manual Security verification" },
         { label: "Critical & high-risk focus" },
         { label: "Standard PDF report" },
         { label: "Email support" },
@@ -217,7 +217,7 @@ export const vapt = {
         { label: "Advanced penetration testing" },
         { label: "Source code review (optional)" },
         { label: "Compliance mapping (OWASP)" },
-        { label: "Dedicated security expert" },
+        { label: "Dedicated Security expert" },
       ],
     },
   ],

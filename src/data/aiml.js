@@ -29,13 +29,13 @@ export const aiml = {
       { icon: "M12 2l10 18H2L12 2z", label: "Regulatory penalties (EU AI Act, GDPR)" },
       { icon: "M12 3a9 9 0 100 18 9 9 0 000-18z", label: "Loss of trust and reputational damage" },
     ],
-    closing: "For AI, security, safety, and trust go hand in hand.",
+    closing: "For AI, Security, safety, and trust go hand in hand.",
   },
 
-  services: {
+  Services: {
     title: "Our AI/ML Security",
     highlight: "Testing Services",
-    lead: "Comprehensive security assessment for your entire AI lifecycle.",
+    lead: "Comprehensive Security assessment for your entire AI lifecycle.",
     cards: [
       {
         title: "Data & Training Pipeline Security",
@@ -72,7 +72,7 @@ export const aiml = {
       },
       {
         title: "AI API & Application Security",
-        desc: "API and application layer security testing.",
+        desc: "API and application layer Security testing.",
         points: [
           "AI inference API authentication and authorization",
           "Rate limiting and abuse prevention",
@@ -83,10 +83,10 @@ export const aiml = {
       },
       {
         title: "MLOps, Cloud & Infrastructure Security",
-        desc: "Infrastructure and deployment pipeline security.",
+        desc: "Infrastructure and deployment pipeline Security.",
         points: [
           "Model storage and artifact protection",
-          "CI/CD and MLOps pipeline security",
+          "CI/CD and MLOps pipeline Security",
           "Cloud misconfiguration detection",
           "Secure deployment and rollback validation",
         ],
@@ -116,11 +116,11 @@ export const aiml = {
       },
       {
         title: "Automated Testing",
-        desc: "Automated AI security scanning.",
+        desc: "Automated AI Security scanning.",
       },
       {
         title: "Manual Assessment",
-        desc: "Deep manual security evaluation. Controlled misuse and impact validation.",
+        desc: "Deep manual Security evaluation. Controlled misuse and impact validation.",
       },
       {
         title: "Reporting & Guidance",
@@ -161,7 +161,7 @@ export const aiml = {
 
   whoShould: {
     title: "Who Should Opt for",
-    lead: "AI security is critical for startups, mid-size companies, and enterprises. Early testing reduces long-term risk, compliance cost, and reputational damage.",
+    lead: "AI Security is critical for startups, mid-size companies, and enterprises. Early testing reduces long-term risk, compliance cost, and reputational damage.",
     items: [
       "Startups building AI-powered applications and platforms",
       "AI product and platform providers",
@@ -175,10 +175,10 @@ export const aiml = {
 
   choose: {
     lead:
-      "If your system learns, predicts, or generates decisions, AI security testing is essential.",
+      "If your system learns, predicts, or generates decisions, AI Security testing is essential.",
     items: [
       {
-        title: "Specialized expertise in AI, ML, and GenAI security",
+        title: "Specialized expertise in AI, ML, and GenAI Security",
         desc: "Deep knowledge of AI-specific attack vectors and defenses.",
       },
       {
@@ -190,7 +190,7 @@ export const aiml = {
         desc: "Compliance-ready reports aligned with EU regulations. Executive-ready documentation for all stakeholders.",
       },
       {
-        title: "End-to-end support: security, privacy, and trust",
+        title: "End-to-end support: Security, privacy, and trust",
         desc: "Comprehensive support throughout the AI lifecycle. Validation of fixes at no additional cost.",
       },
     ],
@@ -203,13 +203,13 @@ export const aiml = {
       name: "Starter (AI Scan)",
       tagline: "Vulnerability Discovery",
       price: "Free",
-      bestFor: "Basic model security validation",
+      bestFor: "Basic model Security validation",
       popular: true,
       cta: "Start Testing",
       features: [
         { label: "Adversarial attack resistance check" },
         { label: "Model inversion risk assessment" },
-        { label: "Data pipeline security scan" },
+        { label: "Data pipeline Security scan" },
       ],
     },
     {
@@ -237,7 +237,7 @@ export const aiml = {
         { label: "AI system-wide penetration testing" },
         { label: "EU AI Act readiness audit" },
         { label: "Continuous model monitoring" },
-        { label: "Dedicated AI security expert" },
+        { label: "Dedicated AI Security expert" },
       ],
     },
   ],
@@ -245,7 +245,7 @@ export const aiml = {
   faqs: [
     {
       q: "What is AI/ML Security Testing?",
-      a: "AI/ML Security Testing is the process of assessing artificial intelligence and machine learning systems for security, privacy, safety, and compliance risks. It evaluates data pipelines, models, APIs, applications, and infrastructure to ensure AI systems are trustworthy and resilient against misuse or attacks.",
+      a: "AI/ML Security Testing is the process of assessing artificial intelligence and machine learning systems for Security, privacy, safety, and compliance risks. It evaluates data pipelines, models, APIs, applications, and infrastructure to ensure AI systems are trustworthy and resilient against misuse or attacks.",
     },
     {
       q: "How is AI/ML Security Testing different from traditional VAPT?",
@@ -260,7 +260,7 @@ export const aiml = {
       a: "We can assess training data and data pipelines, machine learning models and algorithms, generative AI and LLM interfaces, inference APIs and applications, MLOps pipelines and cloud infrastructure, and access controls, logging, and governance mechanisms.",
     },
     {
-      q: "What are the common AI security risks you test for?",
+      q: "What are the common AI Security risks you test for?",
       a: "We test for risks such as data poisoning and contamination, adversarial attacks on models, model inversion and extraction, prompt injection and jailbreaks (GenAI), privacy leakage and memorization, and bias and unsafe decision outcomes.",
     },
     {
@@ -301,7 +301,7 @@ export const aiml = {
     },
     {
       q: "Is AI/ML Security Testing only for large enterprises?",
-      a: "No. AI security is critical for startups, mid-size companies, and enterprises. Early testing reduces long-term risk, compliance cost, and reputational damage.",
+      a: "No. AI Security is critical for startups, mid-size companies, and enterprises. Early testing reduces long-term risk, compliance cost, and reputational damage.",
     },
   ],
 };
