@@ -189,7 +189,7 @@ export default function Iso27000() {
       <WhoNeeds data={d.advice} />
       <FinalCta
         title="Find the Standards That Define Your Success"
-        lead="Design a multi-year security roadmap based on the best of the ISO 27000 family."
+        lead="Design a multi-year Security Roadmap based on the best of the ISO 27000 family."
         primary="Start Gap Analysis"
         secondary="Talk to a Strategy Lead"
       />

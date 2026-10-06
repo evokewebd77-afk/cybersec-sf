@@ -17,7 +17,7 @@ export const about = {
     eyebrow: "OUR IDENTITY",
     title: "The",
     highlight: "ITC Legacy",
-    body: "CyberSec is the Information Security Division of ITC India Pvt. Ltd., delivering world-class cybersecurity operations, compliance certification, and penetration testing for enterprises across industries and geographies.",
+    body: "CyberSec is the Information Security & CyberSec Division of SF Pvt. Ltd., delivering world-class cybersecurity operations, compliance certification, and penetration testing for enterprises across industries and geographies.",
     points: [
       {
         title: "Our Mission",
@@ -76,7 +76,7 @@ export const about = {
     title: "VAPT",
     titleAccent: "SOFTWARE TESTING",
     subtitle:
-      "ITC India's Software VAPT division safeguards modern digital ecosystems by combining expert-led manual assessments with automated testing frameworks, ensuring applications remain secure, compliant, and resilient against evolving threats.",
+      "SF India's Software VAPT division safeguards modern digital ecosystems by combining expert-led manual assessments with automated testing frameworks, ensuring applications remain secure, compliant, and resilient against evolving threats.",
     cards: [
       {
         head: "WAPT (Web Application Penetration Testing)",

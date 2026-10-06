@@ -39,7 +39,7 @@ export const aiml = {
     cards: [
       {
         title: "Data & Training Pipeline Security",
-        desc: "Comprehensive data security and integrity assessment.",
+        desc: "Comprehensive data Security and integrity assessment.",
         points: [
           "Data poisoning and contamination analysis",
           "Unauthorized data access detection",
@@ -50,7 +50,7 @@ export const aiml = {
       },
       {
         title: "Model Security & Robustness Testing",
-        desc: "Deep model security and resilience evaluation.",
+        desc: "Deep model Security and resilience evaluation.",
         points: [
           "Adversarial attack resistance testing",
           "Model inversion and membership inference risks",
@@ -132,7 +132,7 @@ export const aiml = {
   standards: {
     title: "Standards, Frameworks &",
     highlight: "Regulations Covered",
-    lead: "Our AI/ML Security Testing aligns with leading global AI security and governance frameworks. This ensures your AI systems are secure, trustworthy, and regulation-ready.",
+    lead: "Our AI/ML Security Testing aligns with leading global AI Security and governance frameworks. This ensures your AI systems are secure, trustworthy, and regulation-ready.",
     items: [
       "OWASP Top 10 for Large Language Model Applications",
       "OWASP AI Security & Privacy Guidance",

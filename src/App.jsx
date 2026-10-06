@@ -28,7 +28,7 @@ export default function App() {
   useRevealOnScroll();
 
   useEffect(() => {
-    document.title = "CyberSec | Information Security Division of ITC INDIA";
+    document.title = "CyberSec | Information Security & CyberSec Division of SF";
   }, []);
 
   return (

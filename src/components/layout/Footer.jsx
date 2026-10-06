@@ -30,7 +30,7 @@ export default function Footer() {
   const subscribe = (e) => {
     e.preventDefault();
     if (!email) return;
-    setMsg("Thanks for subscribing. We'll share security & compliance updates.");
+    setMsg("Thanks for subscribing. We'll share Security & Compliance updates.");
     setEmail("");
   };
 
@@ -50,13 +50,13 @@ export default function Footer() {
                 CyberSec
               </span>
               <span className="block text-[0.62rem] font-semibold uppercase tracking-[0.18em] text-brand-700">
-                IS Division of ITC INDIA
+                IS AND CYBERSEC DIVISION OF SF
               </span>
             </span>
           </Link>
 
           <p className="mt-5 max-w-sm text-sm leading-relaxed text-ink-600">
-            Elevating global security standards through advanced VAPT, IoT
+            Elevating Global Security standards through advanced VAPT, IoT
             security, and comprehensive compliance frameworks. Your trusted
             partner in digital resilience.
           </p>
@@ -99,7 +99,7 @@ export default function Footer() {
           </h3>
           <div className="divider my-3.5 !from-brand-200" />
           <p className="text-sm leading-relaxed text-ink-600">
-            Get latest security insights and compliance updates delivered.
+            Get latest Security Insights and compliance updates delivered.
           </p>
           <form onSubmit={subscribe} className="mt-4">
             <div className="flex flex-col gap-2 sm:flex-row">
@@ -148,7 +148,7 @@ export default function Footer() {
           <p>
             © {YEAR}{" "}
             <span className="font-semibold text-ink-700">CyberSec</span> —{" "}
-            Information Security Division of ITC India Pvt. Ltd.
+            Information Security & CyberSec Division of SF Pvt. Ltd.
           </p>
           <div className="flex items-center gap-5">
             <a

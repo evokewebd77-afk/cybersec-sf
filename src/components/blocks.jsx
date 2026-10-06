@@ -223,7 +223,7 @@ function PlansSection({ plans }) {
         <SectionHead
           eyebrow="Transparent Pricing"
           title="Our Security Plans"
-          subtitle="No hidden fees. Scale your security and compliance as your business grows."
+          subtitle="No hidden fees. Scale your Security and compliance as your business grows."
         />
         <div className="mt-12">
           <PricingTable plans={plans} />

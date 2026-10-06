@@ -58,12 +58,12 @@ export const iso27000 = {
       },
       {
         title: "Unmatched Market Authority",
-        desc: "Designing a multi-year security roadmap based on the best of the ISO family.",
+        desc: "Designing a multi-year Security Roadmap based on the best of the ISO family.",
       },
     ],
     detail: [
       "Evaluating the maturity of your current security vocabulary and processes.",
-      "Setting up the high-level governance needed to manage global security.",
+      "Setting up the high-level governance needed to manage Global Security.",
       "Ensuring your team speaks the common language of the ISO 27000 series.",
       "Continuous improvement cycles based on the ISO 27000 framework.",
     ],
@@ -104,7 +104,7 @@ export const iso27000 = {
     items: [
       {
         title: "Standard Terminology",
-        desc: "Universal language for global security audits.",
+        desc: "Universal language for Global Security audits.",
       },
       {
         title: "Risk Governance",

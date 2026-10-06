@@ -30,7 +30,7 @@ export const vapt = {
       },
       {
         icon: ["M12 2c3 1.5 6 4 6 8l-3 3-3-3-3 3-3-3c0-4 3-6.5 6-8z"],
-        title: "Achieve compliance with global security standards",
+        title: "Achieve compliance with Global Security standards",
       },
     ],
   },

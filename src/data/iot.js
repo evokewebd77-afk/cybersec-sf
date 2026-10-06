@@ -112,7 +112,7 @@ export const iot = {
   compliance: {
     title: "Standards, Compliance &",
     highlight: "Frameworks Covered",
-    lead: "Our IoT Security Testing aligns with globally recognized cybersecurity and regulatory frameworks. This ensures your IoT product is secure-by-design and compliance-ready for EU and global markets.",
+    lead: "Our IoT Security Testing aligns with globally recognized cyberSecurity and regulatory frameworks. This ensures your IoT product is secure-by-design and compliance-ready for EU and global markets.",
     items: [
       "ETSI EN 303 645",
       "OWASP Top 10 for IoT",

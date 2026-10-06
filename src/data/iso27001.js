@@ -156,7 +156,7 @@ export const iso27001 = {
       "Innovation Startups",
     ],
     highlightBox:
-      "👉 Any organization that values data security and global trust needs ISO 27001.",
+      "👉 Any organization that values data Security and global trust needs ISO 27001.",
   },
 
   plans: [

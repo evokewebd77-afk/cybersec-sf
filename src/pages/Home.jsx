@@ -78,7 +78,7 @@ const securityCards = [
 ];
 
 const complianceStatement =
-  "We comply with globally recognized information security and privacy standards to ensure trust, compliance, and secure digital operations for our clients.";
+  "We comply with globally recognized information Security and privacy standards to ensure trust, compliance, and secure digital operations for our clients.";
 
 const standardsCards = [
   {
@@ -139,7 +139,7 @@ function Hero() {
           <div>
             <span className="inline-flex items-center gap-2 rounded-full border border-brand-200 bg-white px-3.5 py-1.5 text-[0.7rem] font-bold uppercase tracking-[0.16em] text-brand-700 shadow-[var(--shadow-soft)]">
               <span className="animate-pulse-dot h-1.5 w-1.5 rounded-full bg-brand-500" />
-              Information Security Division of ITC India
+              Information Security Division
             </span>
 
             <h1 className="mt-6 text-4xl leading-[1.06] sm:text-5xl lg:text-[3.6rem]">
@@ -150,7 +150,7 @@ function Hero() {
 
             <p className="mt-6 max-w-xl text-base leading-relaxed text-ink-600 sm:text-lg">
               Protect your organization from evolving cyber threats with our
-              comprehensive security services. From threat detection to incident
+              comprehensive Security Services. From threat detection to incident
               response, we keep your business secure 24/7.
             </p>
 
@@ -264,9 +264,9 @@ function SecurityCards() {
       <Container>
         <SectionHead
           eyebrow="What we do"
-          title="Comprehensive security and compliance"
+          title="Comprehensive Security and compliance"
           highlight="services"
-          subtitle="From penetration testing to certification audits, one division covers your entire security and compliance roadmap."
+          subtitle="From penetration testing to certification audits, one division covers your entire Security and compliance roadmap."
         />
 
         <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -694,7 +694,7 @@ function Testimonials() {
         <SectionHead
           eyebrow="Testimonials"
           title="Globally Trusted by Leading Companies"
-          subtitle="Real feedback from security and privacy leaders."
+          subtitle="Real feedback from Security and privacy leaders."
         />
         <div className="mt-12 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
           {testimonials.map((t) => (

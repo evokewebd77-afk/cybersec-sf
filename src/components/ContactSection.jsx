@@ -60,11 +60,11 @@ export default function ContactSection() {
             <span className="eyebrow eyebrow-dark">Contact Us</span>
             <h2 className="mt-4 text-3xl leading-tight sm:text-4xl">
               Let's talk about your{" "}
-              <span className="text-gradient">security roadmap</span>
+              <span className="text-gradient">Security Roadmap</span>
             </h2>
             <p className="mt-4 text-base leading-relaxed text-ink-600">
               Reach out for audits, compliance, or cybersecurity consultations.
-              Tell us what you need and a security specialist will get back to
+              Tell us what you need and a Security Specialist will get back to
               you.
             </p>
 
@@ -79,7 +79,7 @@ export default function ContactSection() {
                 {
                   icon: "M12 22s7-5.6 7-12a7 7 0 10-14 0c0 6.4 7 12 7 12z",
                   title: "Location",
-                  text: "ITC India Pvt. Ltd.",
+                  text: "SF Pvt. Ltd.",
                 },
                 {
                   icon: "M12 3a9 9 0 100 18 9 9 0 000-18zM12 7v5l3 2",

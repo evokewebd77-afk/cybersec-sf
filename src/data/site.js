@@ -1,14 +1,14 @@
 export const site = {
   name: "CyberSec",
   fullName: "Cybersec - Information Security Division",
-  parent: "ITC India Pvt. Ltd.",
-  parentTagline: "IS Division of ITC INDIA",
-  tagline: "Information Security Division Of ITC INDIA",
+  parent: "SF Pvt. Ltd.",
+  parentTagline: "IS AND CYBERSEC DIVISION OF SF",
+  tagline: "Information Security & CyberSec Division of SF",
   url: "https://cybersec.itcindia.org",
   email: "info@itcindia.org",
   whatsapp: "https://wa.me/7589783899",
   phoneDisplay: "+91 75897 83899",
-  address: "ITC India Pvt. Ltd.",
+  address: "SF Pvt. Ltd.",
   socials: [
     {
       name: "LinkedIn",

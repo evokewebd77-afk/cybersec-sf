@@ -105,7 +105,7 @@ export const drone = {
   },
 
   methodology: {
-    lead: "CyberSec ITC India follows a hybrid testing methodology that combines automated analysis with in-depth manual testing.",
+    lead: "CyberSec SF follows a hybrid testing methodology that combines automated analysis with in-depth manual testing.",
     steps: [
       {
         title: "Threat Modeling",
@@ -240,7 +240,7 @@ export const drone = {
         { label: "Advanced signal exploitation" },
         { label: "Custom mission risk analysis" },
         { label: "Compliance with aviation standards" },
-        { label: "Dedicated security specialist" },
+        { label: "Dedicated Security Specialist" },
       ],
     },
   ],
