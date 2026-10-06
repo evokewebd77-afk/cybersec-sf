@@ -42,7 +42,7 @@ export const drone = {
       "GPS spoofing or signal manipulation",
       "Leakage of video, telemetry, or location data",
       "Unauthorized firmware modification",
-      "Regulatory and compliance failures",
+      "Regulatory and Compliance failures",
     ],
     benefitsLead: "Drone Security Testing helps organizations:",
     benefits: [
@@ -84,7 +84,7 @@ export const drone = {
       },
       {
         title: "Ground Control & Mobile Application Security",
-        desc: "Mobile and desktop control software testing.",
+        desc: "Mobile and desktop control Software Testing.",
         points: [
           "Authentication, authorization, and session management",
           "Insecure local storage and API misuse",
@@ -130,7 +130,7 @@ export const drone = {
     ],
   },
 
-  compliance: [
+  Compliance: [
     { code: "ETSI", title: "IoT Cybersecurity Standard" },
     { code: "NIST", title: "NIST IoT Cybersecurity Framework" },
     { code: "NIST", title: "NIST SP 800-53" },
@@ -179,7 +179,7 @@ export const drone = {
         desc: "In-depth manual assessment beyond automated tools.",
       },
       {
-        title: "Clear, practical, and compliance-focused reports",
+        title: "Clear, practical, and Compliance-focused reports",
         desc: "Actionable reports aligned with industry standards.",
       },
       {
@@ -260,14 +260,14 @@ export const drone = {
     },
     {
       q: "Why is drone Security important?",
-      a: "Drones are connected IoT devices. Security gaps can lead to drone seizures, GPS spoofing, data leakage, unauthorized firmware changes, and compliance violations.",
+      a: "Drones are connected IoT devices. Security gaps can lead to drone seizures, GPS spoofing, data leakage, unauthorized firmware changes, and Compliance violations.",
     },
     {
-      q: "Which standards and compliances do you follow?",
+      q: "Which standards and Compliances do you follow?",
       a: "Our assessments align with: OWASP Top 10 for IoT, ETSI EN 303 645, NIST IoT Cybersecurity Framework, and CVE & CVSS risk scoring.",
     },
     {
-      q: "Is Drone Security Testing mandatory for compliance?",
+      q: "Is Drone Security Testing mandatory for Compliance?",
       a: "For many industries and government projects, yes. Compliance with standards like ETSI EN 303 645 is increasingly required for safe and trusted drone deployments.",
     },
     {
@@ -280,7 +280,7 @@ export const drone = {
     },
     {
       q: "What will we receive after the assessment?",
-      a: "You will receive a detailed Security report including: Executive summary, vulnerability findings, risk severity and impact, Proof of Concept (PoC), remediation recommendations, and compliance mapping (OWASP IoT & ETSI EN 303 645).",
+      a: "You will receive a detailed Security report including: Executive summary, vulnerability findings, risk severity and impact, Proof of Concept (PoC), remediation recommendations, and Compliance mapping (OWASP IoT & ETSI EN 303 645).",
     },
     {
       q: "Who should opt for Drone Security Testing?",

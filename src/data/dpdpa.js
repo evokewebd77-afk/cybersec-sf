@@ -1,13 +1,13 @@
 export const dpdpa = {
   badge: "DPDPA CONSULTANCY & COMPLIANCE",
   title: "DPDPA Consultancy & Compliance",
-  titleAccent: "Enterprise-grade privacy compliance for the data age.",
+  titleAccent: "Enterprise-grade privacy Compliance for the data age.",
   subtitle:
-    "Enterprise-grade privacy compliance platform for consent governance, data discovery, risk monitoring, and regulatory readiness.",
+    "Enterprise-grade privacy Compliance platform for consent governance, data discovery, risk monitoring, and regulatory readiness.",
 
   assessment: {
     eyebrow: "Self Assessment",
-    title: "Evaluate your DPDPA compliance posture in just 5 questions",
+    title: "Evaluate your DPDPA Compliance posture in just 5 questions",
     lead: "The Digital Personal Data Protection Act (DPDPA) 2023 is India's data protection law regulating the processing of digital personal data, ensuring privacy rights for individuals.",
     questions: [
       {
@@ -44,7 +44,7 @@ export const dpdpa = {
     eyebrow: "REGULATORY PRESSURE",
     title: "Why DPDPA",
     highlight: "Matters Now",
-    lead: "The Digital Personal Data Protection Act is enforceable. Non-compliance carries significant penalties up to ₹250 crore or 4% of global turnover.",
+    lead: "The Digital Personal Data Protection Act is enforceable. Non-Compliance carries significant penalties up to ₹250 crore or 4% of global turnover.",
     items: [
       { icon: "M12 2L4 5v6c0 5 3.5 9.7 8 10.9 4.5-1.2 8-5.9 8-10.9V5l-8-3z", text: "Consent Management Challenges" },
       { icon: "M4 6c0-1.7 3.6-3 8-3s8 1.3 8 3-3.6 3-8 3-8-1.3-8-3z", text: "Data Governance Risks" },
@@ -57,7 +57,7 @@ export const dpdpa = {
   framework: {
     eyebrow: "COMPLIANCE FRAMEWORK",
     title: "DPDPA Compliance Framework",
-    lead: "Five core areas for operationalizing privacy compliance under the Digital Personal Data Protection Act.",
+    lead: "Five core areas for operationalizing privacy Compliance under the Digital Personal Data Protection Act.",
     areas: [
       {
         title: "A · Data Mapping & Inventory",
@@ -110,7 +110,7 @@ export const dpdpa = {
   platform: {
     eyebrow: "COMPLETE SUITE",
     title: "Platform Features",
-    lead: "Everything you need to operationalize DPDPA compliance across your organization",
+    lead: "Everything you need to operationalize DPDPA Compliance across your organization",
     items: [
       {
         title: "Consent Management",
@@ -126,15 +126,15 @@ export const dpdpa = {
       },
       {
         title: "Breach Response",
-        desc: "72-hour DPDPA notification compliance. Automated incident detection, assessment, and notification workflows.",
+        desc: "72-hour DPDPA notification Compliance. Automated incident detection, assessment, and notification workflows.",
       },
       {
         title: "Vendor Risk Monitoring",
-        desc: "Continuous third-party data processing oversight. Contract management, DPIA automation, and compliance attestations.",
+        desc: "Continuous third-party data processing oversight. Contract management, DPIA automation, and Compliance attestations.",
       },
       {
         title: "Compliance Automation",
-        desc: "Continuous compliance monitoring with automated evidence collection. Real-time regulatory updates and gap analysis.",
+        desc: "Continuous Compliance monitoring with automated evidence collection. Real-time regulatory updates and gap analysis.",
       },
     ],
   },
@@ -154,7 +154,7 @@ export const dpdpa = {
       },
       {
         title: "Monitor",
-        desc: "Continuous compliance monitoring with real-time alerts and automated workflows.",
+        desc: "Continuous Compliance monitoring with real-time alerts and automated workflows.",
       },
       {
         title: "Improve",
@@ -192,7 +192,7 @@ export const dpdpa = {
   socialProof: {
     eyebrow: "CLIENT TESTIMONIALS",
     title: "What Leaders Say",
-    lead: "Trusted by industry pioneers driving privacy compliance across India",
+    lead: "Trusted by industry pioneers driving privacy Compliance across India",
     cardTitle: "What Industry Leaders Say",
     cardLead: "Real feedback from privacy leaders across India",
     highlights: [
@@ -202,7 +202,7 @@ export const dpdpa = {
       "24/7 Dedicated Support",
     ],
     highlightBox:
-      "Join 200+ enterprises already leveraging our platform for privacy compliance.",
+      "Join 200+ enterprises already leveraging our platform for privacy Compliance.",
     testimonials: [
       {
         quote:
@@ -231,11 +231,11 @@ export const dpdpa = {
       a: "The Digital Personal Data Protection Act (DPDPA) 2023 is India's data protection law regulating the processing of digital personal data, ensuring privacy rights for individuals.",
     },
     {
-      q: "What are the penalties for non-compliance?",
-      a: "Non-compliance can result in penalties up to ₹250 crore or 4% of global annual turnover, whichever is higher.",
+      q: "What are the penalties for non-Compliance?",
+      a: "Non-Compliance can result in penalties up to ₹250 crore or 4% of global annual turnover, whichever is higher.",
     },
     {
-      q: "How long does DPDPA compliance take?",
+      q: "How long does DPDPA Compliance take?",
       a: "Typically 2-4 months depending on organizational size and current privacy posture. Our platform accelerates this with automated workflows.",
     },
   ],

@@ -57,7 +57,7 @@ export default function Footer() {
 
           <p className="mt-5 max-w-sm text-sm leading-relaxed text-ink-600">
             Elevating Global Security standards through advanced VAPT, IoT
-            Security, and comprehensive compliance frameworks. Your trusted
+            Security, and comprehensive Compliance frameworks. Your trusted
             partner in digital resilience.
           </p>
 
@@ -99,7 +99,7 @@ export default function Footer() {
           </h3>
           <div className="divider my-3.5 !from-brand-200" />
           <p className="text-sm leading-relaxed text-ink-600">
-            Get latest Security Insights and compliance updates delivered.
+            Get latest Security Insights and Compliance updates delivered.
           </p>
           <form onSubmit={subscribe} className="mt-4">
             <div className="flex flex-col gap-2 sm:flex-row">
@@ -122,7 +122,7 @@ export default function Footer() {
           )}
 
           <p className="mt-6 text-sm text-ink-600">
-            Reach out for audits, compliance, or cybersecurity consultations.
+            Reach out for audits, Compliance, or cybersecurity consultations.
           </p>
           <div className="mt-3 space-y-2 text-sm">
             <a

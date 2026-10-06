@@ -107,11 +107,11 @@ export default function IotSecurity() {
       <Section className="bg-white">
         <Container>
           <SectionHead
-            title={iot.compliance.title}
-            highlight={iot.compliance.highlight}
-            subtitle={iot.compliance.lead}
+            title={iot.Compliance.title}
+            highlight={iot.Compliance.highlight}
+            subtitle={iot.Compliance.lead}
           />
-          <ChipList items={iot.compliance.items} className="mt-10 justify-center" />
+          <ChipList items={iot.Compliance.items} className="mt-10 justify-center" />
         </Container>
       </Section>
 
@@ -167,7 +167,7 @@ export default function IotSecurity() {
       <FaqSection faqs={iot.faqs} />
       <FinalCta
         title="Secure Your IoT Ecosystem Today"
-        lead="Don't wait for a data breach, safety incident, or compliance failure to expose vulnerabilities."
+        lead="Don't wait for a data breach, safety incident, or Compliance failure to expose vulnerabilities."
         primary="Request an IoT Security Assessment"
         secondary="View Pricing"
       />

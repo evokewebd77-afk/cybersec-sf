@@ -42,7 +42,7 @@ export const hipaa = {
 
   safeguards: {
     title: "Core HIPAA Safeguards",
-    lead: "HIPAA compliance is built deeply around three essential safeguard pillars.",
+    lead: "HIPAA Compliance is built deeply around three essential safeguard pillars.",
     groups: [
       {
         title: "Administrative Safeguards",
@@ -78,11 +78,11 @@ export const hipaa = {
 
   process: {
     title: "HIPAA Compliance Process",
-    lead: "We guide you seamlessly from assessment to total compliance readiness.",
+    lead: "We guide you seamlessly from assessment to total Compliance readiness.",
     steps: [
       {
         title: "HIPAA Gap Assessment",
-        desc: "Identify compliance gaps and risks",
+        desc: "Identify Compliance gaps and risks",
       },
       {
         title: "Risk Analysis & Mitigation",
@@ -98,7 +98,7 @@ export const hipaa = {
       },
       {
         title: "Audit Preparation",
-        desc: "Ensure readiness for compliance checks",
+        desc: "Ensure readiness for Compliance checks",
       },
       {
         title: "Continuous Compliance Support",
@@ -166,7 +166,7 @@ export const hipaa = {
       "SaaS Platforms handling PHI",
     ],
     highlightBox:
-      "👉 If you handle patient data in any shape or form, HIPAA compliance is absolutely mandatory.",
+      "👉 If you handle patient data in any shape or form, HIPAA Compliance is absolutely mandatory.",
   },
 
   plans: [
@@ -206,17 +206,17 @@ export const hipaa = {
       bestFor: "Enterprises & large hospitals",
       cta: "Contact Sales",
       features: [
-        { label: "Multi-location compliance" },
+        { label: "Multi-location Compliance" },
         { label: "Continuous monitoring" },
-        { label: "Dedicated compliance team" },
+        { label: "Dedicated Compliance team" },
       ],
     },
   ],
 
   faqs: [
     {
-      q: "What is HIPAA compliance?",
-      a: "HIPAA compliance ensures protection of healthcare data through administrative, technical, and physical safeguards.",
+      q: "What is HIPAA Compliance?",
+      a: "HIPAA Compliance ensures protection of healthcare data through administrative, technical, and physical safeguards.",
     },
     {
       q: "Is HIPAA mandatory in India?",
@@ -227,7 +227,7 @@ export const hipaa = {
       a: "Protected Health Information includes patient records, medical history, and personal health data.",
     },
     {
-      q: "How long does HIPAA compliance take?",
+      q: "How long does HIPAA Compliance take?",
       a: "Typically 1\u20133 months depending on scope and readiness.",
     },
   ],

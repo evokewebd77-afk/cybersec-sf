@@ -37,7 +37,7 @@ export const iot = {
       { icon: "M1 21h22L12 2 1 21z", label: "Operational disruption" },
       { icon: "M4 4h16v16H4z", label: "Data breaches and privacy violations" },
       { icon: "M3 3h18v18H3z", label: "Safety risks" },
-      { icon: "M3 3h18v18H3z", label: "Regulatory non-compliance" },
+      { icon: "M3 3h18v18H3z", label: "Regulatory non-Compliance" },
       { icon: "M3 3h18v18H3z", label: "Loss of customer trust" },
     ],
   },
@@ -109,10 +109,10 @@ export const iot = {
     ],
   },
 
-  compliance: {
+  Compliance: {
     title: "Standards, Compliance &",
     highlight: "Frameworks Covered",
-    lead: "Our IoT Security Testing aligns with globally recognized cyberSecurity and regulatory frameworks. This ensures your IoT product is secure-by-design and compliance-ready for EU and global markets.",
+    lead: "Our IoT Security Testing aligns with globally recognized cyberSecurity and regulatory frameworks. This ensures your IoT product is secure-by-design and Compliance-ready for EU and global markets.",
     items: [
       "ETSI EN 303 645",
       "OWASP Top 10 for IoT",
@@ -162,7 +162,7 @@ export const iot = {
         desc: "Deep manual assessment beyond scanner results.",
       },
       {
-        title: "EU and global compliance-focused approach",
+        title: "EU and global Compliance-focused approach",
         desc: "Aligned with international standards and regulations.",
       },
       {
@@ -239,14 +239,14 @@ export const iot = {
     },
     {
       q: "Why is IoT Security Testing important?",
-      a: "IoT devices are always connected and often deployed at scale. A single vulnerability can lead to unauthorized device control, data leakage and privacy violations, operational disruption, safety risks, and regulatory and compliance failures. IoT Security Testing helps prevent these risks.",
+      a: "IoT devices are always connected and often deployed at scale. A single vulnerability can lead to unauthorized device control, data leakage and privacy violations, operational disruption, safety risks, and regulatory and Compliance failures. IoT Security Testing helps prevent these risks.",
     },
     {
       q: "Which standards and frameworks do you follow?",
       a: "Our IoT Security Testing aligns with OWASP Top 10 for IoT, ETSI EN 303 645 (EU IoT Cybersecurity Standard), NIST IoT Cybersecurity Framework, ISO/IEC 27001 & ISO/IEC 27002, ISO/IEC 62443 (IoT & OT Security), CVE & CVSS risk scoring, and GDPR and DPDPA data protection considerations.",
     },
     {
-      q: "Is IoT Security Testing required for EU compliance?",
+      q: "Is IoT Security Testing required for EU Compliance?",
       a: "For many IoT products sold or deployed in the EU, ETSI EN 303 645 and GDPR alignment is increasingly expected. IoT Security Testing helps demonstrate due diligence, secure-by-design practices, and regulatory readiness.",
     },
     {
@@ -263,7 +263,7 @@ export const iot = {
     },
     {
       q: "Is IoT Security Testing only for large enterprises?",
-      a: "No. IoT Security Testing is critical for startups, manufacturers, service providers, and enterprises. Early testing reduces long-term Security, safety, and compliance risks.",
+      a: "No. IoT Security Testing is critical for startups, manufacturers, service providers, and enterprises. Early testing reduces long-term Security, safety, and Compliance risks.",
     },
     {
       q: "Do you provide remediation and retesting support?",
@@ -271,7 +271,7 @@ export const iot = {
     },
     {
       q: "Is this relevant for industrial and critical IoT systems?",
-      a: "Yes. We conduct testing for Industrial IoT (IIoT) and Operational Technology (OT) environments. Our approach integrates cybersecurity considerations with critical factors such as safety, availability, and compliance with regulatory requirements.",
+      a: "Yes. We conduct testing for Industrial IoT (IIoT) and Operational Technology (OT) environments. Our approach integrates cybersecurity considerations with critical factors such as safety, availability, and Compliance with regulatory requirements.",
     },
   ],
 };

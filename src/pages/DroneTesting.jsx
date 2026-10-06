@@ -156,7 +156,7 @@ export default function DroneTesting() {
             highlight="Covered"
           />
           <div className="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-            {drone.compliance.map((c) => (
+            {drone.Compliance.map((c) => (
               <div
                 key={c.title}
                 className="rounded-2xl border border-ink-200 bg-white px-5 py-5 text-center shadow-[var(--shadow-soft)]"
@@ -229,7 +229,7 @@ export default function DroneTesting() {
       <FaqSection faqs={drone.faqs} />
       <FinalCta
         title="Secure Your Drone Operations Today"
-        lead="Don't wait for a breach, data leak, or compliance failure to expose vulnerabilities."
+        lead="Don't wait for a breach, data leak, or Compliance failure to expose vulnerabilities."
         primary="Talk to a Drone Security Expert"
         secondary="View Pricing"
       />

@@ -71,7 +71,7 @@ export default function Iso27701() {
         </Container>
       </Section>
 
-      {/* Unified compliance */}
+      {/* Unified Compliance */}
       <Section className="bg-white">
         <Container>
           <SectionHead

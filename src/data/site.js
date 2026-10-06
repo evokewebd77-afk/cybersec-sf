@@ -59,7 +59,7 @@ export const nav = {
       { label: "ISO 27001", to: "/iso-27001", desc: "ISMS certification" },
       { label: "ISO 27000", to: "/iso-27000", desc: "Security ecosystem advisory" },
       { label: "ISO 27701", to: "/iso-27701", desc: "Privacy (PIMS) certification" },
-      { label: "AI Compliance", to: "/ai-compliance", desc: "AI control mapping" },
+      { label: "AI Compliance", to: "/ai-Compliance", desc: "AI control mapping" },
       { label: "DPDPA", to: "/dpdpa", desc: "India data protection" },
     ],
   },

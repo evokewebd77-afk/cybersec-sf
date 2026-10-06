@@ -52,7 +52,7 @@ function SelfAssessment() {
             Self <span className="text-gradient">Assessment</span>
           </h2>
           <p className="mx-auto mt-4 max-w-xl text-base text-ink-600">
-            Evaluate your DPDPA compliance posture in just 5 questions
+            Evaluate your DPDPA Compliance posture in just 5 questions
           </p>
         </div>
 
@@ -97,7 +97,7 @@ function SelfAssessment() {
                 className={`mx-auto mt-6 inline-block rounded-2xl border px-6 py-3.5 text-sm font-semibold ${tone.bg} ${tone.ring} ${tone.text}`}
               >
                 {pct >= 80
-                  ? "Excellent! You're well prepared for DPDPA compliance."
+                  ? "Excellent! You're well prepared for DPDPA Compliance."
                   : pct >= 60
                     ? "Good progress! A few areas need attention."
                     : "Significant gaps identified. Let's get you compliant."}

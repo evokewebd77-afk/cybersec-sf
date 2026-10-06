@@ -50,7 +50,7 @@ export default function App() {
           <Route path="/iso-27001" element={<Iso27001 />} />
           <Route path="/iso-27000" element={<Iso27000 />} />
           <Route path="/iso-27701" element={<Iso27701 />} />
-          <Route path="/ai-compliance" element={<AiCompliance />} />
+          <Route path="/ai-Compliance" element={<AiCompliance />} />
           <Route path="/dpdpa" element={<Dpdpa />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="*" element={<NotFound />} />

@@ -63,7 +63,7 @@ export default function ContactSection() {
               <span className="text-gradient">Security Roadmap</span>
             </h2>
             <p className="mt-4 text-base leading-relaxed text-ink-600">
-              Reach out for audits, compliance, or cybersecurity consultations.
+              Reach out for audits, Compliance, or cybersecurity consultations.
               Tell us what you need and a Security Specialist will get back to
               you.
             </p>

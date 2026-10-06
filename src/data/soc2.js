@@ -86,7 +86,7 @@ export const soc2 = {
         "Snapshot-based audit",
       ],
       bestFor: [
-        "Startups beginning their compliance journey",
+        "Startups beginning their Compliance journey",
         "Companies preparing for their first enterprise clients",
         "Organizations needing quick initial certification",
       ],
@@ -123,11 +123,11 @@ export const soc2 = {
     eyebrow: "HOW WE WORK",
     title: "Our End-to-End",
     highlight: "SOC 2 Process",
-    lead: "We provide end-to-end SOC 2 compliance Services mapping the entire journey to certification.",
+    lead: "We provide end-to-end SOC 2 Compliance Services mapping the entire journey to certification.",
     steps: [
       {
         title: "Gap Assessment",
-        desc: "Identify missing controls and compliance gaps.",
+        desc: "Identify missing controls and Compliance gaps.",
       },
       {
         title: "Readiness Implementation",
@@ -169,7 +169,7 @@ export const soc2 = {
       },
       {
         title: "Vendor Management",
-        desc: "Third-party risk and compliance validation.",
+        desc: "Third-party risk and Compliance validation.",
       },
       {
         title: "Business Continuity",
@@ -189,7 +189,7 @@ export const soc2 = {
       },
       {
         title: "Audit-Ready Approach",
-        desc: "Fast, scalable, and cost-effective compliance paths designed specifically for modern startups.",
+        desc: "Fast, scalable, and cost-effective Compliance paths designed specifically for modern startups.",
       },
       {
         title: "Real Security Implementation",
@@ -218,7 +218,7 @@ export const soc2 = {
       name: "Starter (SOC 2 Type I)",
       tagline: "Compliance Readiness",
       price: "Custom",
-      bestFor: "Startups starting compliance",
+      bestFor: "Startups starting Compliance",
       popular: true,
       cta: "Get a Free Consultation",
       features: [
@@ -247,14 +247,14 @@ export const soc2 = {
     {
       kicker: "SOC 2",
       name: "Enterprise Security",
-      tagline: "Multi-system compliance",
+      tagline: "Multi-system Compliance",
       price: "Custom",
       bestFor: "Large scale enterprises",
       cta: "Contact Sales",
       features: [
         { label: "Advanced risk management" },
         { label: "Vendor & third-party audit" },
-        { label: "Dedicated compliance manager" },
+        { label: "Dedicated Compliance manager" },
         { label: "Custom SLA & reporting" },
       ],
     },

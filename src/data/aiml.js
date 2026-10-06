@@ -12,7 +12,7 @@ export const aiml = {
       { icon: "M12 2l10 18H2L12 2z", label: "Safety" },
       { icon: "M12 3v18M5 7h14M7 21h10", label: "Fairness" },
       { icon: "M12 8v4l3 2", label: "Reliability" },
-      { icon: "M12 7v5l3 2", label: "Regulatory compliance" },
+      { icon: "M12 7v5l3 2", label: "Regulatory Compliance" },
     ],
     note: "Unlike traditional applications, AI systems are vulnerable to model-specific attacks such as data poisoning, adversarial inputs, model extraction, prompt injection, and bias exploitation.",
   },
@@ -93,7 +93,7 @@ export const aiml = {
       },
       {
         title: "Governance, Ethics & Compliance",
-        desc: "AI governance and regulatory compliance assessment.",
+        desc: "AI governance and regulatory Compliance assessment.",
         points: [
           "Risk classification (EU AI Act readiness)",
           "Transparency and explainability controls",
@@ -147,7 +147,7 @@ export const aiml = {
 
   report: {
     title: "What You Receive After the Assessment",
-    lead: "You receive a clear, actionable, and executive-ready AI Security Report, suitable for engineering teams, compliance teams, and leadership.",
+    lead: "You receive a clear, actionable, and executive-ready AI Security Report, suitable for engineering teams, Compliance teams, and leadership.",
     items: [
       "Executive summary and risk overview",
       "AI-specific vulnerability findings",
@@ -161,7 +161,7 @@ export const aiml = {
 
   whoShould: {
     title: "Who Should Opt for",
-    lead: "AI Security is critical for startups, mid-size companies, and enterprises. Early testing reduces long-term risk, compliance cost, and reputational damage.",
+    lead: "AI Security is critical for startups, mid-size companies, and enterprises. Early testing reduces long-term risk, Compliance cost, and reputational damage.",
     items: [
       "Startups building AI-powered applications and platforms",
       "AI product and platform providers",
@@ -245,7 +245,7 @@ export const aiml = {
   faqs: [
     {
       q: "What is AI/ML Security Testing?",
-      a: "AI/ML Security Testing is the process of assessing artificial intelligence and machine learning systems for Security, privacy, safety, and compliance risks. It evaluates data pipelines, models, APIs, applications, and infrastructure to ensure AI systems are trustworthy and resilient against misuse or attacks.",
+      a: "AI/ML Security Testing is the process of assessing artificial intelligence and machine learning systems for Security, privacy, safety, and Compliance risks. It evaluates data pipelines, models, APIs, applications, and infrastructure to ensure AI systems are trustworthy and resilient against misuse or attacks.",
     },
     {
       q: "How is AI/ML Security Testing different from traditional VAPT?",
@@ -268,7 +268,7 @@ export const aiml = {
       a: "Our AI/ML Security Testing aligns with OWASP Top 10 for LLM Applications, OWASP AI Security & Privacy Guidance, NIST AI Risk Management Framework (AI RMF), ISO/IEC 42001 (AI Management Systems), ISO/IEC 23894 (AI Risk Management), MITRE ATLAS, and GDPR and EU AI Act readiness.",
     },
     {
-      q: "Is AI/ML Security Testing required for EU compliance?",
+      q: "Is AI/ML Security Testing required for EU Compliance?",
       a: "While not always legally mandatory, AI/ML Security Testing is strongly recommended for organizations subject to the EU AI Act, GDPR, and sector-specific regulations. It helps demonstrate due diligence, risk management, and trustworthy AI practices.",
     },
     {
@@ -281,7 +281,7 @@ export const aiml = {
     },
     {
       q: "What do we receive after the assessment?",
-      a: "You receive a detailed AI Security Report including executive summary, AI-specific risk findings, technical and business impact analysis, Proof of Concept (PoC) evidence, remediation and governance recommendations, and framework and compliance mapping.",
+      a: "You receive a detailed AI Security Report including executive summary, AI-specific risk findings, technical and business impact analysis, Proof of Concept (PoC) evidence, remediation and governance recommendations, and framework and Compliance mapping.",
     },
     {
       q: "Is this relevant for Generative AI and LLMs?",
@@ -301,7 +301,7 @@ export const aiml = {
     },
     {
       q: "Is AI/ML Security Testing only for large enterprises?",
-      a: "No. AI Security is critical for startups, mid-size companies, and enterprises. Early testing reduces long-term risk, compliance cost, and reputational damage.",
+      a: "No. AI Security is critical for startups, mid-size companies, and enterprises. Early testing reduces long-term risk, Compliance cost, and reputational damage.",
     },
   ],
 };

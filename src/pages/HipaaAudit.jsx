@@ -163,7 +163,7 @@ export default function HipaaAudit() {
       <FaqSection faqs={hipaa.faqs} />
       <FinalCta
         title={hipaa.choose.title}
-        lead="Get a free HIPAA consultation with a compliance specialist who understands healthcare workflows."
+        lead="Get a free HIPAA consultation with a Compliance specialist who understands healthcare workflows."
         primary="Get a Free HIPAA Consultation"
         secondary="View Pricing"
       />

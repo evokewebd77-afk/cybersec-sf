@@ -13,7 +13,7 @@ export default function AiCompliance() {
       <PageHero
         badge={d.badge}
         title={d.title}
-        titleAccent="Detect compliance gaps instantly with AI insights."
+        titleAccent="Detect Compliance gaps instantly with AI insights."
         subtitle={d.subtitle}
         primaryCta={{ label: "Request Demo" }}
         secondaryCta={{ label: "Assess Readiness" }}
@@ -69,7 +69,7 @@ export default function AiCompliance() {
       <PlansSection plans={d.plans} />
       <FinalCta
         title="Let AI Handle Your Compliance"
-        lead="Select a plan that fits your automated compliance journey."
+        lead="Select a plan that fits your automated Compliance journey."
         primary="Request Demo"
         secondary="View Plans"
       />

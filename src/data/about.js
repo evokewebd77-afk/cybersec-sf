@@ -17,7 +17,7 @@ export const about = {
     eyebrow: "OUR IDENTITY",
     title: "The",
     highlight: "ITC Legacy",
-    body: "CyberSec is the Information Security & CyberSec Division of SF Pvt. Ltd., delivering world-class cybersecurity operations, compliance certification, and penetration testing for enterprises across industries and geographies.",
+    body: "CyberSec is the Information Security & CyberSec Division of SF Pvt. Ltd., delivering world-class cybersecurity operations, Compliance certification, and penetration testing for enterprises across industries and geographies.",
     points: [
       {
         title: "Our Mission",

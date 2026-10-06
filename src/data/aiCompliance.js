@@ -18,7 +18,7 @@ export const aiCompliance = {
     {
       icon: ["M12 3a9 9 0 100 18 9 9 0 000-18z", "M12 7v5l3 2"],
       title: "Gap Analysis",
-      desc: "Detect compliance gaps instantly with AI insights.",
+      desc: "Detect Compliance gaps instantly with AI insights.",
     },
     {
       icon: ["M13 2L3 14h7l-1 8 10-12h-7l1-8z"],
@@ -61,7 +61,7 @@ export const aiCompliance = {
       name: "Starter",
       tagline: "Readiness Snapshot",
       price: "Custom",
-      bestFor: "Teams starting their compliance journey",
+      bestFor: "Teams starting their Compliance journey",
       popular: true,
       cta: "Request Demo",
       features: [
@@ -81,7 +81,7 @@ export const aiCompliance = {
         { label: "Everything in Starter" },
         { label: "Continuous evidence collection" },
         { label: "SOC 2 / ISO / HIPAA mapping" },
-        { label: "Dedicated compliance advisor" },
+        { label: "Dedicated Compliance advisor" },
       ],
     },
     {

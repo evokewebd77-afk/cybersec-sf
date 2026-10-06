@@ -43,7 +43,7 @@ export const soc3 = {
     title: "Why SOC 3",
     highlight: "Matters",
     lead:
-      "SOC 3 is not just compliance\u2014it's a trust badge for your business. Think of SOC 3 as your \u201csecurity certificate for the public.\u201d",
+      "SOC 3 is not just Compliance\u2014it's a trust badge for your business. Think of SOC 3 as your \u201csecurity certificate for the public.\u201d",
     items: [
       "Build trust with customers instantly",
       "Showcase Security directly on your website",
@@ -84,7 +84,7 @@ export const soc3 = {
     steps: [
       {
         title: "SOC 2 Readiness",
-        desc: "Prepare your organization for SOC 2 compliance.",
+        desc: "Prepare your organization for SOC 2 Compliance.",
       },
       {
         title: "Type II Audit Completion",
@@ -174,7 +174,7 @@ export const soc3 = {
         { label: "SOC 3 report generation" },
         { label: "Public trust certification" },
         { label: "Branding usage guidance" },
-        { label: "Summary compliance report" },
+        { label: "Summary Compliance report" },
       ],
     },
     {
@@ -200,7 +200,7 @@ export const soc3 = {
       cta: "Contact Sales",
       features: [
         { label: "Multi-product certification" },
-        { label: "Global compliance alignment" },
+        { label: "Global Compliance alignment" },
         { label: "Dedicated advisory" },
         { label: "Custom reporting" },
       ],

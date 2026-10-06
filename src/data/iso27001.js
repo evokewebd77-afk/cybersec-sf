@@ -44,7 +44,7 @@ export const iso27001 = {
 
   stages: {
     eyebrow: "CERTIFICATION STAGES",
-    title: "Choose the level of engagement that fits your current compliance needs.",
+    title: "Choose the level of engagement that fits your current Compliance needs.",
     sub: "Know where you stand before you build.",
     stage1: {
       tag: "Phase 1: Readiness",
@@ -101,7 +101,7 @@ export const iso27001 = {
   auditScope: {
     eyebrow: "Audit Scope",
     title: "ISO 27001 Certification Plans",
-    sub: "Select the perfect scope and audit plan aligned with your organizational compliance tracking.",
+    sub: "Select the perfect scope and audit plan aligned with your organizational Compliance tracking.",
     areas: [
       {
         title: "Governance",
@@ -117,7 +117,7 @@ export const iso27001 = {
       },
       {
         title: "Vendor Risk",
-        desc: "Managing third-party Security compliance.",
+        desc: "Managing third-party Security Compliance.",
       },
       {
         title: "Operations",
@@ -136,7 +136,7 @@ export const iso27001 = {
     items: [
       {
         title: "Global Standards",
-        desc: "Delivering world-class compliance and pentesting mapped to the highest international standards.",
+        desc: "Delivering world-class Compliance and pentesting mapped to the highest international standards.",
       },
       {
         title: "Compliance Mastery",
@@ -165,12 +165,12 @@ export const iso27001 = {
       name: "Readiness",
       tagline: "Gap Analysis & Strategy",
       price: "Custom",
-      bestFor: "Startups beginning their compliance journey",
+      bestFor: "Startups beginning their Compliance journey",
       popular: true,
       cta: "Start Your Audit",
       features: [
         { label: "Policy review & asset mapping" },
-        { label: "Risk rating & compliance scorecard" },
+        { label: "Risk rating & Compliance scorecard" },
         { label: "Implementation roadmap & budget estimation" },
       ],
     },

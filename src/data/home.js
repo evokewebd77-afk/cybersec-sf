@@ -111,7 +111,7 @@ export const industrySolutions = [
       "M3.7 12h4l1.5-3.5L11 16l2.5-6 1.4 2h5.4",
     ],
     summary:
-      "Protect patient data and medical systems while ensuring HIPAA compliance and operational continuity.",
+      "Protect patient data and medical systems while ensuring HIPAA Compliance and operational continuity.",
     threats: [
       "Ransomware attacks",
       "Medical identity theft",
@@ -119,7 +119,7 @@ export const industrySolutions = [
       "Patient data breaches",
     ],
     approach: [
-      "HIPAA compliance auditing",
+      "HIPAA Compliance auditing",
       "Medical device Security",
       "PHI data encryption",
       "Incident response planning",
@@ -175,13 +175,13 @@ export const industrySolutions = [
       "DDoS on learning platforms",
     ],
     approach: [
-      "FERPA compliance",
+      "FERPA Compliance",
       "Campus network Security",
       "End-user awareness training",
       "Multi-factor authentication",
     ],
     results: [
-      "FERPA compliance achieved",
+      "FERPA Compliance achieved",
       "90% reduction in phishing clicks",
       "Secure remote learning environment",
     ],
@@ -252,7 +252,7 @@ export const homeFaqs = [
   },
   {
     q: "Is SOC 2 a one-time thing?",
-    a: "No. SOC 2 Type II reports are valid for 12 months and must be renewed annually to maintain compliance and customer trust.",
+    a: "No. SOC 2 Type II reports are valid for 12 months and must be renewed annually to maintain Compliance and customer trust.",
   },
   {
     q: "Do we really need SOC 2?",
@@ -295,8 +295,8 @@ export const homeFaqs = [
     a: "No. Our assessments are planned to be safe, non-intrusive, and business-friendly.",
   },
   {
-    q: "Which standards and compliance frameworks do you follow for testing?",
-    a: "We use trusted, globally recognized Security standards to make sure our testing is thorough, reliable, and audit-ready. Based on your business and what you need to comply with, we align our testing with frameworks such as OWASP Top 10 & OWASP ASVS – to secure web apps, mobile apps, APIs, and IoT applications; NIST (SP 800-53 / 800-115) – for structured, risk-based Security testing; ISO/IEC 27001 & 27002 – for strong information Security controls and best practice; SOC 2 (Trust Service Criteria) – covering Security, Availability, Confidentiality, and Privacy; ETSI & OWASP IoT Top 10 – for IoT device, firmware, and communication Security. We don't believe in one-size-fits-all Security. That's why we choose the right standards based on your industry, customers, and compliance goals, making testing practical, effective, and not just a checklist exercise.",
+    q: "Which standards and Compliance frameworks do you follow for testing?",
+    a: "We use trusted, globally recognized Security standards to make sure our testing is thorough, reliable, and audit-ready. Based on your business and what you need to comply with, we align our testing with frameworks such as OWASP Top 10 & OWASP ASVS – to secure web apps, mobile apps, APIs, and IoT applications; NIST (SP 800-53 / 800-115) – for structured, risk-based Security testing; ISO/IEC 27001 & 27002 – for strong information Security controls and best practice; SOC 2 (Trust Service Criteria) – covering Security, Availability, Confidentiality, and Privacy; ETSI & OWASP IoT Top 10 – for IoT device, firmware, and communication Security. We don't believe in one-size-fits-all Security. That's why we choose the right standards based on your industry, customers, and Compliance goals, making testing practical, effective, and not just a checklist exercise.",
   },
   {
     q: "Why choose us?",

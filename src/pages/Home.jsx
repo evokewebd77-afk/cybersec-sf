@@ -77,8 +77,8 @@ const securityCards = [
   },
 ];
 
-const complianceStatement =
-  "We comply with globally recognized information Security and privacy standards to ensure trust, compliance, and secure digital operations for our clients.";
+const ComplianceStatement =
+  "We Comply With Globally Recognized information Security and privacy standards to ensure trust, Compliance, and secure digital operations for our clients.";
 
 const standardsCards = [
   {
@@ -95,11 +95,11 @@ const standardsCards = [
   },
   {
     title: "ISO/IEC 27701",
-    desc: "Enhances privacy governance by defining controls for personal data protection and compliance.",
+    desc: "Enhances privacy governance by defining controls for personal data protection and Compliance.",
   },
   {
     title: "SOC 2",
-    desc: "Protect patient data and medical systems while ensuring HIPAA compliance and operational continuity.",
+    desc: "Protect patient data and medical systems while ensuring HIPAA Compliance and operational continuity.",
   },
   {
     title: "SOC 3",
@@ -264,9 +264,9 @@ function SecurityCards() {
       <Container>
         <SectionHead
           eyebrow="What we do"
-          title="Comprehensive Security and compliance"
+          title="Comprehensive Security and Compliance"
           highlight="Services"
-          subtitle="From penetration testing to certification audits, one division covers your entire Security and compliance roadmap."
+          subtitle="From penetration testing to certification audits, one division covers your entire Security and Compliance roadmap."
         />
 
         <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -324,9 +324,9 @@ function SoftwareTesting() {
       <Container className="relative">
         <SectionHead
           eyebrow="Software Testing"
-          title="Structured work instructions for"
+          title="Structured Work Instructions for"
           highlight="IoT & software Security"
-          subtitle="ITC India has developed specialized internal work instructions for IoT and Drone Security Testing, ensuring repeatable and high-quality assessments."
+          subtitle="ITC India has developed specialized internal Work Instructions for IoT and Drone Security Testing, ensuring repeatable and high-quality assessments."
         />
 
         <div className="mt-12 grid gap-6 lg:grid-cols-2">
@@ -559,7 +559,7 @@ function Certifications() {
         <SectionHead
           eyebrow="ITC India Certification"
           title="Our Certifications"
-          subtitle={complianceStatement}
+          subtitle={ComplianceStatement}
         />
 
         <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
@@ -669,7 +669,7 @@ function Labs() {
       <Container className="relative">
         <SectionHead
           eyebrow="Our Laboratory"
-          title="NABL-accredited testing & calibration"
+          title="NABL-Accredited testing & calibration"
           subtitle="End-to-end solutions in electrical, electronic, photometric, and solar equipment testing."
         />
         <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -698,16 +698,27 @@ function Testimonials() {
         />
         <div className="mt-12 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
           {testimonials.map((t) => (
-            <Card key={t.name} className="flex flex-col p-6">
+            <Card
+              key={t.name}
+              className="group relative flex flex-col overflow-hidden p-6"
+            >
+              <div
+                className="pointer-events-none absolute -top-10 right-[-4rem] h-40 w-40 rounded-full bg-brand-100/60 blur-3xl transition-opacity duration-500 group-hover:opacity-80"
+                aria-hidden="true"
+              />
+              <div
+                className="pointer-events-none absolute -bottom-12 left-[-3rem] h-36 w-36 rounded-full bg-brand-200/40 blur-3xl transition-opacity duration-500 group-hover:opacity-80"
+                aria-hidden="true"
+              />
               <Icon
                 path="M8 6l-6 6 6 6M16 6l6 6-6 6"
-                className="h-7 w-7 text-brand-300"
+                className="h-7 w-7 text-brand-500"
               />
-              <p className="mt-4 flex-1 text-sm leading-relaxed text-ink-700">
+              <p className="relative mt-4 flex-1 text-sm leading-relaxed text-ink-700">
                 {t.quote}
               </p>
-              <div className="mt-5 flex items-center gap-3 border-t border-ink-200 pt-4">
-                <span className="flex h-10 w-10 items-center justify-center rounded-full bg-brand-100 text-sm font-bold text-brand-700">
+              <div className="relative mt-5 flex items-center gap-3 border-t border-brand-200/60 pt-4">
+                <span className="flex h-10 w-10 items-center justify-center rounded-full bg-gradient-to-br from-brand-600 to-brand-400 text-sm font-bold text-white shadow-[var(--shadow-soft)]">
                   {t.name
                     .replace(/^(Col\.)\s*/, "")
                     .split(" ")

@@ -71,7 +71,7 @@ export const privacy = {
           before: "We do ",
           strong: "not",
           after:
-            " sell or rent your personal data to third-party marketers. Disclosure occurs only for operational mandates or legal compliance.",
+            " sell or rent your personal data to third-party marketers. Disclosure occurs only for operational mandates or legal Compliance.",
         },
       ],
     },
